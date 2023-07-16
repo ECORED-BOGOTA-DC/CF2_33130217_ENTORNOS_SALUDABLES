@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Atención Integral en salud mental**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-bogota-dc.github.io/CF2_33130217_ENTORNOS_SALUDABLES/](https://ecored-bogota-dc.github.io/CF2_33130217_ENTORNOS_SALUDABLES/)
 
 #
 
