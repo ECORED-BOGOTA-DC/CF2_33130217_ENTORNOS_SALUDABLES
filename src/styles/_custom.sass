@@ -36,9 +36,61 @@
 .banner-interno__fondo
   background-image: url("../assets/curso/portada/img1.svg") !important
 
+.tarjeta.color-acento-contenido
+  background-color: #FFD9D9
+
+.slyder-f__btn
+  color: #FFAD01
+
+.bloque-texto-a.color-secundario
+  background-color: #8EDEE0
+
+.tabla-a thead
+  background-color: #006A76
+
+.tarjeta.tarjeta--gris
+  background-image: url(../assets/curso/tema2/img6.svg)
+  background-repeat: no-repeat
+  background-size: cover
+
+.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
+  background-color: #FFAD01
+
+.tarjeta.tarjeta--azul
+  background-color: #FF8182
+.tarjeta.tarjeta--azul.acordion__activo
+  background-color: #FFD9D9
+
+.acordion__accion__btn--a i, .acordion__accion__btn--b i
+  color: #FFAD01
+
 .bg
   &-c1
     background-image: url(../assets/curso/intro/img1.svg)
     background-repeat: no-repeat
     margin-inline: -3.2rem !important
     background-size: contain
+  &-c2
+    position: relative
+    left: -34px
+    background-color: #FFD9D9
+    border-bottom-right-radius: 25px
+    @media screen and ( max-width: $bp-max-lg )
+      left: 0px
+  &-c3
+    background-image: url(../assets/curso/tema1/img4.svg)
+    background-repeat: no-repeat
+    background-size: cover
+  &-c4
+    background-color: #DDF5F6
+    border-left: 16px solid #8EDEE0
+    border-top-right-radius: 15px
+    border-bottom-right-radius: 45px
+  &-c5
+    background-image: url(../assets/curso/tema4/img3.svg)
+    background-repeat: no-repeat
+    background-size: contain
+
+.txt
+  &-c1
+    color: $color-acento-contenido
