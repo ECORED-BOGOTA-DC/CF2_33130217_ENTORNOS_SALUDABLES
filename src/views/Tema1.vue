@@ -52,7 +52,7 @@
             .col-lg-8
               p Para mayor investigación, este enlace le permitirá consultar la Ley, expedida por el Congreso de la República.
               p.mb-4 #[b Ley 1616 de 2013]
-              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=3_Dq5SHwZ0I" target="_blank" type="application/pdf")
+              a.boton.color-acento-botones.texto-blanco(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/ley-1616-del-21-de-enero-2013.pdf " target="_blank" type="application/pdf")
                 span(style="color: #12263F !important") Enlace
                 i.fas.fa-file-download(style="color: #12263F !important")
     .row.align-items-center.mb-5
@@ -261,7 +261,7 @@
             .col-lg-8
               p Para mayor conocimiento, se puede consultar el siguiente documento para el desarrollo de capacidades dispuesto por el Ministerio de Salud, denominado:
               p.mb-4 #[b Lineamiento de Participación Social en Salud Mental]
-              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=3_Dq5SHwZ0I" target="_blank" type="application/pdf")
+              a.boton.color-acento-botones.texto-blanco(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ENT/Lineamiento-participacion-social-Salud-mental.pdf" target="_blank" type="application/pdf")
                 span(style="color: #12263F !important") Enlace
                 i.fas.fa-file-download(style="color: #12263F !important")
       

@@ -166,7 +166,7 @@
             .col-lg-8
               p En el siguiente video, se comparte un ejemplo de inclusión social, desde el Servicio Nacional de Aprendizaje:
               p.mb-4 #[b Generalidades de inclusión social SENA]
-              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=3_Dq5SHwZ0I" target="_blank" type="application/pdf")
+              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=4folbQz5sh8" target="_blank" type="application/pdf")
                 span(style="color: #12263F !important") Enlace
                 i.fas.fa-file-download(style="color: #12263F !important")
     .row.mb-5
@@ -206,7 +206,7 @@
             .col-lg-8
               p Con el siguiente video, se explica el concepto de la Inclusión Social como estrategia de la República:
               p.mb-4 #[b ¿Qué es la inclusión social?]
-              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=3_Dq5SHwZ0I" target="_blank" type="application/pdf")
+              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=seOpvrzBsms" target="_blank" type="application/pdf")
                 span(style="color: #12263F !important") Enlace
                 i.fas.fa-file-download(style="color: #12263F !important")
 

@@ -17,7 +17,7 @@
             .col-lg-8
               p #[b Resolución 518 de 2015]
               p.mb-4 Por la cual se dictan disposiciones en relación con la gestión pública.
-              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=3_Dq5SHwZ0I" target="_blank" type="application/pdf")
+              a.boton.color-acento-botones.texto-blanco(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/resolucion-0518-de-2015.pdf" target="_blank" type="application/pdf")
                 span(style="color: #12263F !important") Enlace
                 i.fas.fa-file-download(style="color: #12263F !important")
     .row.justify-content-center.mb-5
@@ -70,7 +70,7 @@
             .col-lg-8
               p En el siguiente video, se describe la importancia de la RBC en Colombia, según el Ministerio de Salud y Protección Social:
               p.mb-4 #[b Lineamiento de RBC]
-              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=3_Dq5SHwZ0I" target="_blank" type="application/pdf")
+              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=tDcwTH1Bilc" target="_blank" type="application/pdf")
                 span(style="color: #12263F !important") Enlace
                 i.fas.fa-file-download(style="color: #12263F !important")
 

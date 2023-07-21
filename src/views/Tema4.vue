@@ -39,7 +39,7 @@
             .col-lg-8
               p En el siguiente documento la Organización Panaméricana de la Salud, dispuso información relacionada con la presente temática; en respuesta a emergencias y desastres, apoyando a las personas tras un incidente crítico.
               p.mb-4 #[b Primera Ayuda Psicológica (PAP)]
-              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=3_Dq5SHwZ0I" target="_blank" type="application/pdf")
+              a.boton.color-acento-botones.texto-blanco(href="https://www.paho.org/hq/dmdocuments/2016/Carmen-Martinez.pdf" target="_blank" type="application/pdf")
                 span(style="color: #12263F !important") Enlace
                 i.fas.fa-file-download(style="color: #12263F !important")
     Separador

@@ -221,32 +221,152 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Primeros Auxilios Psicológicos',
+      referencia:
+        'Amarís, M, Madariaga, C., Valle, M. & Zambrano, J. (2013). Estrategias de afrontamiento individual y familiar frente a situaciones de estrés psicológico. <i>Psicología desde el Caribe</i>, Volumen 30, 1, pp. 123-145.',
+      tipo: 'Artículo',
+      link: 'https://www.redalyc.org/pdf/213/21328600007.pdf',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Etapas',
+      referencia:
+        'Chóliz, M. (2017). <i>Técnicas para el control de la activación: relajación y respiración</i>. Universidad de Valencia.',
+      tipo: 'Libro',
+      link: 'https://www.uv.es/=choliz/RelajacionRespiracion.pdf',
+    },
+    {
+      tema: 'Protocolo de manejo en intento de suicidio en salud pública',
+      referencia:
+        'Alfonso, C. (2014). <i>Protocolo de vigilancia en salud pública: Intento de suicidio</i>. Instituto Nacional de Salud.',
+      tipo: 'Lineamiento',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/IA/INS/protocolo-vigilancia-intento-suicidio.pdf',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Afrontamiento',
+      significado:
+        'en psicología, el afrontamiento ha sido definido como un conjunto de estrategias cognitivas y conductuales que la persona utiliza para gestionar demandas internas o externas que sean percibidas como excesivas para los recursos del individuo. Se puede considerar como una respuesta adaptativa de cada uno, para reducir el estrés que deriva de una situación vista como difícil de afrontar.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Calidad de vida',
+      significado:
+        'la calidad de vida se define como la percepción del individuo sobre su posición en la vida dentro del contexto cultural y el sistema de valores en el que vive y con respecto a sus metas, expectativas, normas y preocupaciones. Es un concepto extenso y complejo que engloba la salud física, el estado psicológico, el nivel de independencia, las relaciones sociales, las creencias personales y la relación con las características sobresalientes del entorno.',
+    },
+    {
+      termino: 'Autoayuda',
+      significado:
+        'en el contexto de la promoción de la salud, todas aquellas medidas llevadas a cabo por no profesionales sanitarios, con el fin de movilizar los recursos necesarios para promover, mantener o restaurar la salud de los individuos y de las comunidades.',
+    },
+    {
+      termino: 'Colaboración intersectorial',
+      significado:
+        'relación reconocida entre parte o partes de distintos sectores de la sociedad que se ha establecido para emprender acciones en un tema con el fin de lograr resultados de salud o resultados intermedios de salud, de manera más eficaz, eficiente o sostenible que aquella que el sector sanitario pueda lograr actuando en solitario.',
+    },
+    {
+      termino: 'Comunidad',
+      significado:
+        'grupo específico de personas, que a menudo viven en una zona geográfica definida, comparten la misma cultura, valores y normas, y están organizadas en una estructura social conforme al tipo de relaciones que la comunidad ha desarrollado a lo largo del tiempo. Los miembros de una comunidad adquieren su identidad personal y social al compartir creencias, valores y normas comunes que la comunidad ha desarrollado en el pasado y que pueden modificarse en el futuro. ',
+    },
+    {
+      termino: 'Condiciones de vida',
+      significado:
+        'las condiciones de vida son el entorno cotidiano de las personas, dónde éstas viven, actúan y trabajan. Estas condiciones de vida son producto de las circunstancias sociales y económicas, y del entorno físico, todo lo cual puede ejercer impacto en la salud, estando en gran medida fuera del control inmediato del individuo.',
+    },
+    {
+      termino: 'Empoderamiento para la salud',
+      significado:
+        'en promoción de la salud, el empoderamiento para la salud es un proceso mediante el cual las personas adquieren un mayor control sobre las decisiones y acciones que afectan a su salud.',
+    },
+    {
+      termino: 'Factor de riesgo',
+      significado:
+        'condiciones sociales, económicas o biológicas, conductas o ambientes que están asociados con o causan un incremento de la susceptibilidad para una enfermedad específica, una salud deficiente o lesiones.',
+    },
+    {
+      termino: 'Prevalencia',
+      significado:
+        'es el número de casos clínicos o portadores de una enfermedad en un determinado momento dentro de una comunidad.',
+    },
+    {
+      termino: 'Prevención de la enfermedad',
+      significado:
+        'la prevención de la enfermedad abarca las medidas destinadas no solamente a prevenir la aparición de la enfermedad, tales como la reducción de los factores de riesgo, sino también a detener su avance y atenuar sus consecuencias una vez establecida.',
+    },
+    {
+      termino: 'Promoción de la salud',
+      significado:
+        'acciones y programas que tienen como objetivo proporcionar a la comunidad los medios necesarios para adoptar las conductas que le permitan proteger y mejorar su estado de salud. Estas acciones suelen tener una impronta educativa, con el objetivo de informar y formar a las personas para que cuiden de su salud de manera autónoma.',
+    },
+    {
+      termino: 'Salud Pública',
+      significado:
+        'la salud pública es un concepto social y político destinado a mejorar la salud, prolongar la vida y mejorar la calidad de vida de las poblaciones mediante la promoción de la salud, la prevención de la enfermedad y otras formas de intervención sanitaria.',
+    },
+    {
+      termino: 'Violencia intrafamiliar',
+      significado:
+        'la violencia intrafamiliar es cualquier tipo de abuso de poder cometido por algún miembro de la familia sobre otro para dominar, someter, controlar o agredir física, psíquica, sexual, patrimonial o económicamente. Puede ocurrir fuera o dentro del domicilio familiar naturales y por efectos catastróficos de la acción del hombre en forma accidental, que requiera por ello de la especial atención de los organismos del estado y de otras entidades de carácter humanitario o de servicio social.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Becoña, E. (2006). Resiliencia: definición, características y utilidad del concepto. <i>Revista de psicología y psicología clínica</i>, 11, (3), p.p. 125-146. ',
+      link:
+        'https://www.bienestaryproteccioninfantil.es/imagenes/tablaContenidos03SubSec/01.2006(3).Becona.pdf',
+    },
+    {
+      referencia:
+        'Cepal. (2019). <i>Coordinación	intersectorial y entre actores pro igualdad</i>. ',
+      link:
+        'https://www.cepal.org/sites/default/files/presentations/2019-04-10_s8.1-rh.pdf',
+    },
+    {
+      referencia:
+        'Erausquin C., Denegri A. y Michele J. (2014). <i>Estrategias y modalidades de intervención psicoeducativa: historia y perspectivas en el análisis y construcción de prácticas y discursos</i>. Material Didáctico Sistematizado. ',
+      link: 'https://www.aacademica.org/cristina.erausquin/195.pdf',
+    },
+    {
+      referencia:
+        'Friedli, L. (2009). <i>Mental health, resilience and inequalities</i>. WHO/Europe. ',
+      link:
+        'https://apps.who.int/iris/bitstream/handle/10665/107925/E92227.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Salud. (2015). Convenio 547. <i>Lineamiento de Participación Social en Salud Mental. Documento Técnico para el desarrollo de capacidades</i>. ',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ENT/Lineamiento-participacion-social-Salud-mental.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (2016). <i>Manual de Gestión Integrada para la Atención Integral y Diferenciada de la Salud Mental de la Población Privada de la Libertad</i>. ',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ENT/Gestion-integrada-atencion-salud-mental-ppl.pdf',
+    },
+    {
+      referencia:
+        'Organización Mundial de la Salud. (2012). <i>Guías para la RBC Componente de fortalecimiento</i>. ',
+      link:
+        'http://apps.who.int/iris/bitstream/handle/10665/44809/9789243548050_Introducc;jsessionid=8D8F6DFA3D7733D2D54E34176671F339?sequence=42',
+    },
+    {
+      referencia:
+        'Organización Mundial de la Salud. (2013). <i>Plan de acción sobre salud mental 2013-2020</i>. ',
+      link:
+        'https://apps.who.int/iris/bitstream/handle/10665/97488/9789243506029_spa.pdf',
+    },
+    {
+      referencia: 'Prosperidad Social. (2021). <i>Ruta de atención</i>. ',
+      link:
+        'http://centrodedocumentacion.prosperidadsocial.gov.co/2021/Micrositio/Prevencion-de-la-Violencia/Infografias/Ruta_de_Atencion.pdf',
+    },
+    {
+      referencia:
+        'Organización Panamericana de Salud. (2016). <i>Primera Ayuda Psicológica (PAP): en respuesta a emergencias y desastres</i>. ',
+      link: 'https://www.paho.org/hq/dmdocuments/2016/Carmen-Martinez.pdf',
     },
   ],
   creditos: [
@@ -254,14 +374,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizabal',
+          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
           cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de línea de producción',
-          centro: 'Nombre centro de formación',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -269,9 +390,31 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Sonia Margarita Leal Cruz',
+          cargo: 'Experta técnica',
+          centro:
+            'Centro de Formación de Talento Humano en Salud - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Claudia Milena Hernández Naranjo',
+          cargo: 'Diseñadora instruccional',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Asesor metodológico',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable equipo desarrollo curricular',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Jhon Jairo Rodríguez Pérez',
+          cargo: 'Corrector de estilo',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
       ],
     },
@@ -279,14 +422,16 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Yuly Rey',
           cargo: 'Diseñador web',
-          centro: 'Nombre centro de formación',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Fullstack',
-          centro: 'Nombre centro de formación',
+          nombre: 'Jhon Jairo Urueta Alvarez',
+          cargo: 'Desarrollador fullstack',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Nombre',

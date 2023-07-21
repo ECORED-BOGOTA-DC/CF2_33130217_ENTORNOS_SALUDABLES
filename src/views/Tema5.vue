@@ -49,7 +49,7 @@
             .col-lg-8
               p En el siguiente video, se contextualiza un poco sobre las generalidades y principios de una RIA:
               p.mb-4 #[b Ruta integral de atención en salud]
-              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=3_Dq5SHwZ0I" target="_blank" type="application/pdf")
+              a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=OQ8PuL4ft1U" target="_blank" type="application/pdf")
                 span(style="color: #12263F !important") Enlace
                 i.fas.fa-file-download(style="color: #12263F !important")
     .row.align-items-center.mb-5
