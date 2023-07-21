@@ -3,9 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
-
+    p.mb-5 El mejoramiento continuo en salud mental involucra no solo políticas gubernamentales, sino también la participación de la comunidad en todos los procesos de atención integral en salud que se establezcan; por lo que es necesario conocer las estrategias de promoción en salud que se estén aplicando en la actualidad, al igual que los protocolos de manejo, las rutas de atención, las actividades que se deben establecer para la prevención de eventos que afecten la salud y estabilidad mental de la comunidad. Por esto el presente componente, abordó temas significativos y de mucha importancia que se esquematizan a continuación:
     .row.justify-content-center
       .col-lg-10.mb-5
         figure

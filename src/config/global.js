@@ -84,24 +84,8 @@ export default {
         subMenu: [
           {
             numero: '6.1',
-            titulo: 'Procedimiento para denunciar',
-            hash: 't_6_1',
-          },
-          {
-            numero: '6.2',
-            titulo: 'Rutas de atención',
-            hash: 't_6_2',
-          },
-          {
-            numero: '6.3',
-            titulo:
-              'Competencias de cada entidad: Comisarias de Familia, Policía Nacional, Fiscalía, ICBF, Salud, Medicina legal, Personerías',
-            hash: 't_6_3',
-          },
-          {
-            numero: '6.4',
             titulo: 'Líneas disponibles para la denuncia y/o acompañamiento',
-            hash: 't_6_4',
+            hash: 't_6_1',
           },
         ],
       },
