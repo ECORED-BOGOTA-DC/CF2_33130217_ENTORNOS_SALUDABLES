@@ -120,7 +120,7 @@
               p.text-center #[b ALUCINÓGENOS]
               p.text-center Drogas que alteran la química y funcionamiento cerebral dando lugar a distorsiones sensoriales que alteran la percepción e interpretación de los estímulos.
               p.text-center Ejemplos
-              p.text-center Hongos psilocibes, LSD, algunos derivados del cannabis, PCP (Fenciclidina o polvo de ángel).
+              p.text-center Hongos psilocibes, LSD, algunos derivados del cannabis, PCP (fenciclidina o polvo de ángel).
     Separador
     #t_9_3
     .titulo-segundo.color-acento-contenido

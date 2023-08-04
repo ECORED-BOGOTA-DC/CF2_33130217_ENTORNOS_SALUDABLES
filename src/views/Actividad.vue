@@ -10,12 +10,12 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 La aplicación de la Acción Integral en Salud Mental
+          h2 La aplicación de la atención integral en salud mental
         p.mb-4 Determinar el procedimiento conceptual en los postulados en salud mental logrando la interpretación de la acción integral en salud mental.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Falso o verdadero
+              p.fw-bold.mb-0 Cuestionario
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/index.html')" target="_blank")
                 span Realizar

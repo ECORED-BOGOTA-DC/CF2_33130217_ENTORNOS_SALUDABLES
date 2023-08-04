@@ -12,12 +12,12 @@
           p.mb-5 Como principal objetivo en la promoción de la salud mental está conseguir que la mayoría de la población tenga un desarrollo pleno de sus capacidades y por ello, en el siguiente video se explica la importancia de las estrategias para la promoción en Colombia:
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/hWObLL3J6Vk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     Separador
     #t_7_1
     .titulo-segundo.color-acento-contenido
       h2 7.1. Plan de acción
-    p El plan de acción busca Identificar factores promotores de resiliencia, para fomentarlos y así fortalecer el desarrollo de esta, proteger la salud mental e impulsar el liderazgo de la comunidad, para la promoción de actividades que permitan el desarrollo pleno de las capacidades de los sujetos, así como también busca identificar aquellos sujetos o comunidades que están en riesgo para prevenir el desarrollo de patologías mentales e intervenir de manera oportuna, para lograr buena salud mental y una participación activa en la comunidad.
+    p El plan de acción busca identificar factores promotores de resiliencia, para fomentarlos y así fortalecer el desarrollo de esta, proteger la salud mental e impulsar el liderazgo de la comunidad, para la promoción de actividades que permitan el desarrollo pleno de las capacidades de los sujetos, así como también busca identificar aquellos sujetos o comunidades que están en riesgo para prevenir el desarrollo de patologías mentales e intervenir de manera oportuna, para lograr buena salud mental y una participación activa en la comunidad.
     p.mb-5 Por lo anterior, se recomienda el siguiente plan de acción:
     .tarjeta.tarjeta--verde
       .p-4.p-lg-5
@@ -58,7 +58,7 @@
                 img(src='@/assets/curso/tema7/img3.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
-              p #[b El autoestima]
+              p #[b La autoestima]
               p.mb-0 Fortalecimiento de autoestima, en espacios que  permitan la expresión, el auto reconocimiento, la identificación de  los intereses propios del sujeto, para así librar  prototipos y expectativas impuestas.
             .col-lg-5
               figure
@@ -72,7 +72,7 @@
                 img(src='@/assets/curso/tema7/img5.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
-              p #[b Educación e inteligencia emocional]
+              p #[b Educación en inteligencia emocional]
               p.mb-0 Promover la educación en inteligencia emocional, que  permita desarrollar tolerancia a la frustración y situaciones estresantes, procurando el reconocimiento de los sentimientos y emociones,  sin rotularlos y expresarlos de una forma acertada.
             .col-lg-5
               figure
@@ -112,7 +112,7 @@
         figure
           img(src='@/assets/curso/tema7/img9.png', style="width: 70px" ,alt='Texto que describa la imagen').m-auto
       .col
-        p.mb-0 Los entornos protectores son ámbitos en los que se cuidan de los niños, niñas y las personas o comunidades en situación de vulnerabilidad, promoviendo la cultura del buen trato, y la tolerancia independiente de las características o condiciones de cada sujeto. Uno de los objetivos principales de los entornos protectores es asegurar el derecho intrínseco de todos a crecer y desarrollarse plenamente.
+        p.mb-0 Los entornos protectores son ámbitos en los que se cuidan de los niños, niñas y las personas o comunidades en situación de vulnerabilidad, promoviendo la cultura del buen trato, y la tolerancia independientemente de las características o condiciones de cada sujeto. Uno de los objetivos principales de los entornos protectores es asegurar el derecho intrínseco de todos a crecer y desarrollarse plenamente.
     .row
       .col-lg-9.mb-4.mb-lg-0
         .row
@@ -132,15 +132,15 @@
               li.d-flex
                 i.fas.fa-circle(style="color: #FF8182")
                 |
-                p.mb-0 Buscar ámbitos donde se trabaje en la promoción de los derechos humanos y el respeto de estos. Sensibilizando a las comunidades en la identificación de situaciones potenciales que representen un riesgo hacia la integridad emocional, psíquica y física de los sujetos.
+                p.mb-0 Buscar ámbitos donde se trabaje en la promoción de los derechos humanos y el respeto de estos, sensibilizando a las comunidades en la identificación de situaciones potenciales que representen un riesgo para la integridad emocional, psíquica y física de los sujetos.
               li.d-flex
                 i.fas.fa-circle(style="color: #FF8182")
                 |
-                p.mb-0 Trabajar en el empoderamiento de comunidades y capacitarlas en cuidado, buen trato, buenos hábitos  y el brindar atención adecuada a personas, niños y niñas en situaciones que amenacen integrida.
+                p.mb-0 Trabajar en el empoderamiento de comunidades y capacitarlas en cuidado, buen trato, buenos hábitos y en brindar atención adecuada a personas, niños y niñas en situaciones que amenacen su integridad.
               li.d-flex
                 i.fas.fa-circle(style="color: #FF8182")
                 |
-                p.mb-0 Apostar a programas intersectoriales y  transdisciplinares que fortalezcan estrategias de promoción y prevención de tratos integrales.
+                p.mb-0 Apostar a programas intersectoriales y  transdisciplinares que fortalezcan estrategias de promoción de la salud y prevención de enfermedades.
       .col-lg-3
         figure
           img(src='@/assets/curso/tema7/img3.svg', style="width: 280px" ,alt='Texto que describa la imagen').m-auto
@@ -184,7 +184,7 @@
               li.d-flex
                 i.fas.fa-circle(style="color: #FF8182")
                 |
-                p.mb-0 Educar  las comunidades en todos los niveles, para generar la resignificación y comprensión de lo que es padecer una enfermedad mental o consumo de sustancias.
+                p.mb-0 Educar a las comunidades en todos los niveles, para generar la resignificación y comprensión de lo que es padecer una enfermedad mental o consumo de sustancias.
               li.d-flex
                 i.fas.fa-circle(style="color: #FF8182")
                 |

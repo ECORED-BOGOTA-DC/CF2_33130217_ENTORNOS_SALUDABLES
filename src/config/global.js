@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Atención Integral en salud mental',
+    componenteFormativo: 'Atención integral en salud mental',
     descripcionCurso:
       'Este componente formativo orienta al aprendiz a comprender la salud mental desde una perspectiva de participación social en salud que permite entender cómo las comunidades cumplen un papel fundamental en los procesos de aceptación, manejo, reconocimiento, atención primaria y tratamiento de la salud mental.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
@@ -49,7 +49,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Grupos de apoyo y de ayuda mutua y/o autoayuda',
+        titulo: 'Grupos de apoyo y de ayuda mutua o autoayuda',
         desarrolloContenidos: true,
       },
       {
@@ -314,8 +314,7 @@ export default {
     {
       referencia:
         'Becoña, E. (2006). Resiliencia: definición, características y utilidad del concepto. <i>Revista de psicología y psicología clínica</i>, 11, (3), p.p. 125-146. ',
-      link:
-        'https://www.bienestaryproteccioninfantil.es/imagenes/tablaContenidos03SubSec/01.2006(3).Becona.pdf',
+      link: '',
     },
     {
       referencia:
@@ -366,7 +365,7 @@ export default {
     {
       referencia:
         'Organización Panamericana de Salud. (2016). <i>Primera Ayuda Psicológica (PAP): en respuesta a emergencias y desastres</i>. ',
-      link: 'https://www.paho.org/hq/dmdocuments/2016/Carmen-Martinez.pdf',
+      link: '',
     },
   ],
   creditos: [

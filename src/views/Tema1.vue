@@ -17,7 +17,7 @@
               p.mb-0 Con la finalidad de comprender el significado de los mecanismos de participación en salud mental, es importante definir qué es la participación social en salud y comprender específicamente qué pasa con la participación a nivel de la salud mental y los mecanismos para su puesta en práctica; es así como en el siguiente video se explicará esta definición:
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/c3tlmvG1nwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.align-items-center.mb-4
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
@@ -50,7 +50,7 @@
               figure
                 img(src='@/assets/curso/tema1/img5.svg', style="width: 220px" ,alt='Texto que describa la imagen').m-auto
             .col-lg-8
-              p Para mayor investigación, este enlace le permitirá consultar la Ley, expedida por el Congreso de la República.
+              p Para conocer más a fondo sobre el tema, este enlace le permitirá consultar la Ley, expedida por el Congreso de la República.
               p.mb-4 #[b Ley 1616 de 2013]
               a.boton.color-acento-botones.texto-blanco(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/ley-1616-del-21-de-enero-2013.pdf " target="_blank" type="application/pdf")
                 span(style="color: #12263F !important") Enlace
@@ -58,7 +58,7 @@
     .row.align-items-center.mb-5
       .col-lg-7.mb-4.mb-lg-0
         p Cabe anotar que la salud mental es entendida como un estado de bienestar que permite que las personas puedan tener interacciones positivas y efectivas, para aportar y participar en escenarios sociales como la familia, la escuela, el trabajo y la comunidad.
-        p.mb-0 En materia de mecanismo de participación social en salud, se contemplan los siguientes escenarios, ilustrados en la siguiente figura 1:
+        p.mb-0 En materia de mecanismo de participación social en salud, se contemplan los siguientes escenarios, ilustrados en la siguiente figura:
       .col-lg-5
         figure
             img(src='@/assets/curso/tema1/img4.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
@@ -79,7 +79,7 @@
           .col-12
             .p-4
               p.text-center #[b Servicio de atención a usuarios]
-              p.mb-0 Todas las instituciones prestadores de servicios de salud están obligadas a implementar estos servicios tanto para afiliados como para personas vinculadas al sistema.
+              p.mb-0 Todas las instituciones prestadoras de servicios de salud están obligadas a implementar estos servicios tanto para afiliados como para personas vinculadas al sistema.
       .tarjeta.color-acento-contenido
         .row.justify-content-center.mb-3
           .col-12
@@ -87,7 +87,7 @@
         .row
           .col-12
             .p-4
-              p.text-center #[b Servicio de atención a la comunidad - SAC]
+              p.text-center #[b Servicio de Atención a la Comunidad - SAC]
               p.mb-0 Canal destinado a resolver peticiones e inquietudes de la comunidad.
       .tarjeta.color-acento-contenido
         .row.justify-content-center.mb-3
@@ -96,7 +96,7 @@
         .row
           .col-12
             .p-4
-              p.text-center #[b Sistema de atención e información de usuarios]
+              p.text-center #[b Sistema de Atención e Información de Usuarios]
               p.mb-0 Todas las instituciones prestadoras de servicios de salud deben garantizar este sistema y velar por la calidad y operatividad del mismo.
       .tarjeta.color-acento-contenido
         .row.justify-content-center.mb-3
@@ -166,7 +166,7 @@
           h4.mb-0 Alcance
     .row.align-items-center.mb-5
       .col-lg-8.mb-4.mb-lg-0
-        p La participación social y más la participación en temas de salud mental, debe ser incentivada a través de herramientas prácticas que permitan la movilización de las comunidades, de las familias, de los cuidadores y los diferentes sectores que tienen afectación en las políticas y decisiones en temas de salud mental.
+        p La participación social y sobre todo la participación en temas de salud mental, debe ser incentivada a través de herramientas prácticas que permitan la movilización de las comunidades, de las familias, de los cuidadores y los diferentes sectores que tienen afectación en las políticas y decisiones en temas de salud mental.
         p Para ello, se deben promover estrategias de participación a nivel individual y comunitario que generen empoderamiento personal para tener criterio, capacidad de reflexión y de acción en los temas de salud mental en los territorios.
         p.mb-0 Los niveles de participación individual y comunitaria gestan procesos organizativos que visibilizan los intereses y las necesidades comunes para trabajar conjuntamente en alcanzar un mismo objetivo.
       .col-lg-4
@@ -210,7 +210,7 @@
                         li.d-flex
                           i.fas.fa-check(style="color: #FF8182")
                           |
-                          p.mb-0 Tomar la decisión personal de opinar y ser escuchado (a) en las decisiones que afectan su vida y la de su contexto.
+                          p.mb-0 Tomar la decisión personal de opinar y ser escuchado(a) en las decisiones que afectan su vida y la de su contexto.
                         li.d-flex
                           i.fas.fa-check(style="color: #FF8182")
                           |
@@ -218,7 +218,7 @@
                         li.d-flex
                           i.fas.fa-check(style="color: #FF8182")
                           |
-                          p.mb-0 Tener sentido de pertenencia por el entorno que lo (a) rodea, identificando problemas y posibles soluciones.
+                          p.mb-0 Tener sentido de pertenencia por el entorno que lo(a) rodea, identificando problemas y posibles soluciones.
                         li.d-flex
                           i.fas.fa-check(style="color: #FF8182")
                           |
@@ -259,7 +259,7 @@
               figure
                 img(src='@/assets/curso/tema1/img8.svg', style="width: 220px" ,alt='Texto que describa la imagen').m-auto
             .col-lg-8
-              p Para mayor conocimiento, se puede consultar el siguiente documento para el desarrollo de capacidades dispuesto por el Ministerio de Salud, denominado:
+              p "Para conocer más a fondo sobre el tema, se puede consultar el siguiente documento para el desarrollo de capacidades dispuesto por el Ministerio de Salud, denominado:
               p.mb-4 #[b Lineamiento de Participación Social en Salud Mental]
               a.boton.color-acento-botones.texto-blanco(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ENT/Lineamiento-participacion-social-Salud-mental.pdf" target="_blank" type="application/pdf")
                 span(style="color: #12263F !important") Enlace

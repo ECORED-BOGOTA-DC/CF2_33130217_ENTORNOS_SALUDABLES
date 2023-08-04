@@ -12,8 +12,8 @@
           p.mb-5 El suicidio representa el 1,4 % de las muertes a nivel mundial, casi un millón de personas mueren a causa de este padecimiento. Referente a esta situación, en el siguiente video se explicará el impacto y los objetivos planteados en Colombia para abordar esta problemática:
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    p.mb-5 La siguiente figura 3, muestra la ruta de atención a seguir, cuando se presentan conductas suicidas:
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/_MvRZr9v1UM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    p.mb-5 La siguiente figura, muestra la ruta de atención a seguir, cuando se presentan conductas suicidas:
     .row.justify-content-center
       .col-md-8.col-lg.bg-c11.m-2
         .p-4
@@ -87,7 +87,7 @@
               |
               p.mb-0 Intento suicida.
           p.mb-0 #[b ¿Donde?]
-          p Diríjase a la entidad de salud mas cercana:
+          p Diríjase a la entidad de salud más cercana:
           ul.lista-ul.mb-0
             li.d-flex
               i.fas.fa-check(style="color: #FF8182")
@@ -104,7 +104,7 @@
             li.d-flex
               i.fas.fa-check(style="color: #FF8182")
               |
-              p.mb-0 Comisaria de familia.
+              p.mb-0 Comisaría de familia.
             li.d-flex
               i.fas.fa-check(style="color: #FF8182")
               |
@@ -112,12 +112,12 @@
             li.d-flex
               i.fas.fa-check(style="color: #FF8182")
               |
-              p.mb-0 Líneas de mergencia:123/106.
+              p.mb-0 Líneas de emergencia: 123/106.
     Separador
     #t_8_1
     .titulo-segundo.color-acento-contenido
       h2 8.1 Factores de riesgo
-    p.mb-5 Hecho o la circunstancia que incrementa las probabilidades de que un individuo sufra determinado problema o contraiga una enfermedad o presente inminencia de un daño. Algunas circunstancias individuales o colectivas se convierten en factores de riesgo más relevantes frente a la ideación suicida, como:
+    p.mb-5 Hecho o circunstancia que incrementa las probabilidades de que un individuo sufra determinado problema, contraiga una enfermedad o presente inminencia de un daño. Algunas circunstancias individuales o colectivas se convierten en factores de riesgo más relevantes frente a la ideación suicida, como:
     .row.justify-content-center.align-items-center.bg-c12
       .col-lg-6.bg-white.mb-4.mb-lg-0
         ul.lista-ul.mb-0
@@ -136,7 +136,7 @@
           li.d-flex
             i.fas.fa-check(style="color: #FF8182")
             |
-            p.mb-0 Tener un diagnóstico psiquiátrico: depresión y/o ansiedad.
+            p.mb-0 Tener un diagnóstico psiquiátrico: depresión o ansiedad.
           li.d-flex
             i.fas.fa-check(style="color: #FF8182")
             |
@@ -148,7 +148,7 @@
           li.d-flex
             i.fas.fa-check(style="color: #FF8182")
             |
-            p.mb-0 Presencia de maltrato y/o violencia psicológica.
+            p.mb-0 Presencia de maltrato o violencia psicológica.
           li.d-flex
             i.fas.fa-check(style="color: #FF8182")
             |
@@ -172,7 +172,7 @@
     #t_8_2
     .titulo-segundo.color-acento-contenido
       h2 8.2. Factores precipitantes
-    p.mb-5 Son aquellos elementos que no son causal directo de enfermedades o condiciones, pero en conjunto con características individuales influyen en el desarrollo de situaciones o enfermedades, ante casos de conductas suicidas.
+    p.mb-5 Son aquellos elementos que no son causal directa de enfermedades o condiciones, pero en conjunto con características individuales, influyen en el desarrollo de situaciones o enfermedades, ante casos de conductas suicidas.
     .row.align-items-center
       .col-lg-4.mb-4.mb-lg-0
         figure
@@ -191,7 +191,7 @@
           li.d-flex
             i.fas.fa-check(style="color: #FF8182")
             |
-            p.mb-0 Síndrome de Burnout (Estado de agotamiento físico y mental que se prolonga en el tiempo distrés crónico, que llega a alterar la personalidad y autoestima del trabajador o estudiante).
+            p.mb-0 Síndrome de #[i burnout] (estado de agotamiento físico y mental que se prolonga en el tiempo distrés crónico, que llega a alterar la personalidad y autoestima del trabajador o estudiante).
           li.d-flex
             i.fas.fa-check(style="color: #FF8182")
             |
@@ -224,7 +224,7 @@
     #t_8_3
     .titulo-segundo.color-acento-contenido
       h2 8.3. Fortalecimiento familiar y comunitario
-    p Tiene como principal objetivo fomentar las habilidades alrededor del cuidado y el buen trato en las familias y las comunidades buscando un desarrollo pleno e integral en las etapas formativas. (primera infancia y adolescencia) previniendo así entornos de riesgo.
+    p Tiene como principal objetivo fomentar las habilidades alrededor del cuidado y el buen trato en las familias y las comunidades buscando un desarrollo pleno e integral en las etapas formativas (primera infancia y adolescencia) previniendo así entornos de riesgo.
     p.mb-5 Algunos de los puntos clave en esta tarea son:
     TabsA.color-acento-contenido
       .tarjeta.color-acento-botones.p-4(titulo="El respeto")

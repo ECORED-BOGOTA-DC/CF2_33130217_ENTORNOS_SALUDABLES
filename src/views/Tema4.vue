@@ -39,14 +39,14 @@
             .col-lg-8
               p En el siguiente documento la Organización Panaméricana de la Salud, dispuso información relacionada con la presente temática; en respuesta a emergencias y desastres, apoyando a las personas tras un incidente crítico.
               p.mb-4 #[b Primera Ayuda Psicológica (PAP)]
-              a.boton.color-acento-botones.texto-blanco(href="https://www.paho.org/hq/dmdocuments/2016/Carmen-Martinez.pdf" target="_blank" type="application/pdf")
+              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexo1.pdf')" target="_blank")
                 span(style="color: #12263F !important") Enlace
                 i.fas.fa-file-download(style="color: #12263F !important")
     Separador
     #t_4_1
     .titulo-segundo.color-acento-contenido
       h2 4.1. Descripción
-    p Los Primeros Auxilios Psicológicos, al igual que los primeros auxilios en una emergencia médica, se aplican a personas que han sufrido o están pasando por una crisis emocional y/o psicológica y son tan importantes en su aplicación para lograr la regulación en el momento, pero también para prevenir condiciones psicológicas posteriores, derivadas del trauma que la experiencia pueda generar.
+    p Los Primeros Auxilios Psicológicos, al igual que los primeros auxilios en una emergencia médica, se aplican a personas que han sufrido o están pasando por una crisis emocional o psicológica y son tan importantes en su aplicación para lograr la regulación en el momento, pero también para prevenir condiciones psicológicas posteriores, derivadas del trauma que la experiencia pueda generar.
     .row.align-items-center.mb-5
       .col-lg-7.mb-4.mb-lg-0
         p La crisis es una condición psicológica que se deriva del desborde emocional que una persona puede presentar ante una situación particular.
@@ -102,7 +102,7 @@
               li.d-flex
                 i.fas.fa-check(style="color: #FF8182")
                 |
-                p.mb-0 #[b Condiciones de seguridad del entorno]: identificar peligros y/o riesgos que la situación haya desencadenado o que hagan parte del entorno y puedan poner en peligro la vida de la persona afectada.
+                p.mb-0 #[b Condiciones de seguridad del entorno]: identificar peligros o riesgos que la situación haya desencadenado o que hagan parte del entorno y puedan poner en peligro la vida de la persona afectada.
               li.d-flex
                 i.fas.fa-check(style="color: #FF8182")
                 |
@@ -136,7 +136,7 @@
               li.d-flex
                 i.fas.fa-check(style="color: #FF8182")
                 |
-                p.mb-0 Ofrézcale agua, ayúdala a acomodarse.
+                p.mb-0 Ofrézcale agua, ayúdele a acomodarse.
               li.d-flex
                 i.fas.fa-check(style="color: #FF8182")
                 |
@@ -224,7 +224,7 @@
       .row.align-items-center
         .col-12
           figure
-            img(src='@/assets/curso/tema4/img3.png', style="width: 600px" ,alt='Texto que describa la imagen').m-auto
+            img(src='@/assets/curso/tema4/img3.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
 
 </template>
 

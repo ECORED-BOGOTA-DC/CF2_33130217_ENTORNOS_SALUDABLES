@@ -110,7 +110,7 @@
             tbody
               tr
                 td(style="vertical-align: initial") #[b Policía Nacional]
-                td Recibe el llamado de la víctima o de un tercero, acompaña, orienta sobre la ruta de atención, brinda seguridad a la víctima y cumple las medidas de protección dictadas por la Fiscalía y/o la Comisaría de Familia.
+                td Recibe el llamado de la víctima o de un tercero, acompaña, orienta sobre la ruta de atención, brinda seguridad a la víctima y cumple las medidas de protección dictadas por la Fiscalía o la Comisaría de Familia.
               tr
                 td(style="vertical-align: initial") #[b Comisarías de Familia]
                 td Son organismos del orden municipal, que atienden las denuncias según circunscripción, es decir que él o la denunciante debe identificar la comisaría más cercana a su localidad. Estos son organismos encargados de la prevención de la violencia intrafamiliar, la protección de los derechos de las víctimas y el restablecimiento de los mismos. Las comisarías atienden casos de cualquier forma de violencia intrafamiliar, prestan atención legal, psicosocial, hacen remisiones a salud en caso de urgencia, solicita dictamen del Instituto Nacional de Medicina Legal y Ciencias Forenses (INMLCF), emite medidas de protección inmediata a las víctimas y remite a las instituciones competentes. Si el caso no se da en el ámbito familiar, asesora sobre el procedimiento a seguir.
@@ -141,7 +141,7 @@
     Separador
     #t_6_1
     .titulo-segundo.color-acento-contenido
-      h2 6.1. Líneas disponibles para la denuncia y/o acompañamiento
+      h2 6.1. Líneas disponibles para la denuncia o acompañamiento
     p.mb-5 La denuncia puede realizarse de forma presencial u online, a través de líneas de atención dispuestas para ello. Estas se encuentran disponibles en casos de emergencias las 24 horas (ver tabla 4).
     .titulo-sexto.color-acento-contenido.mb-4
       p.mb-0 #[b Tabla 4]. Líneas de atención para la denuncia de la violencia

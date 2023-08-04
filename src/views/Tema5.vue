@@ -13,7 +13,7 @@
       .col
         p.mb-0 El objetivo de las RIAS es regular las condiciones necesarias para asegurar la integralidad en la atención en Salud para las personas, familias y comunidades por parte de los diferentes integrantes del SGSSS y demás entidades que tengan a su cargo acciones en salud a efectos de contribuir al mejoramiento de los resultados en salud y reducir la carga de la enfermedad. (Ministerio de Salud, 2016).
     p.mb-5 Las rutas que se han establecido son de tres tipos:
-    .row.mb-5
+    .row.justify-content-center.mb-5
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-primario.p-5.h-100
           .tarjeta-numerada__numero
@@ -47,8 +47,8 @@
               figure
                 img(src='@/assets/curso/tema5/img1.svg', style="width: 220px" ,alt='Texto que describa la imagen').m-auto
             .col-lg-8
-              p En el siguiente video, se contextualiza un poco sobre las generalidades y principios de una RIA:
-              p.mb-4 #[b Ruta integral de atención en salud]
+              p En el siguiente video, se contextualiza un poco sobre las generalidades y principios de las RIAS:
+              p.mb-4 #[b Ruta Integral de Atención en Salud]
               a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=OQ8PuL4ft1U" target="_blank" type="application/pdf")
                 span(style="color: #12263F !important") Enlace
                 i.fas.fa-file-download(style="color: #12263F !important")
@@ -65,7 +65,7 @@
       .col-lg-10
         .tabla-a.color-secundario
           table
-            caption Nota. Ministerio de Salud (2022).
+            caption Nota. SENA (2022).
             thead
               tr
                 th(width="15%").text-white Número
@@ -94,7 +94,7 @@
                 td RIAS para población con riesgo o presencia de cáncer.
               tr
                 th 8
-                td RIAS para población materno -perinatal.
+                td RIAS para población materno-perinatal.
               tr
                 th 9
                 td RIAS para población con riesgo o presencia de enfermedades infecciosas.
@@ -185,7 +185,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b ASIS]
-              p.mb-0 Participación en el ASIS - análisis de situación actual de salud convocados los territorios donde se encuentre la población afiliada.
+              p.mb-0 Participación en el ASIS - Análisis de Situación Actual de Salud convocados los territorios donde se encuentre la población afiliada.
             .col-lg-5
               figure
                 img(src='@/assets/curso/tema5/img13.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
@@ -223,7 +223,7 @@
               p.mb-0 Todas las personas atendidas en la RIA para personas con problemas mentales, trastornos mentales, consumo de sustancias psicoactivas y epilepsia, en el marco de su evaluación psicosocial, deberán ser valoradas para situaciones de violencia; de igual manera, toda persona en quien se documente violencia interpersonal, basada en género y/o en el marco del conflicto armado, deberá ser tamizada para identificar problemas mentales, trastornos mentales, consumo de sustancias psicoactivas y epilepsia.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema5/img17.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema5/img18.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
     .row.justify-content-center
       .col-lg-10
         .bloque-texto-a.color-secundario.p-4.p-md-5
