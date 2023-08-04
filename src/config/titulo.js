@@ -1,1 +1,1 @@
-module.exports = 'Atención Integral en salud mental'
+module.exports = 'Atención integral en salud mental'
