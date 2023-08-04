@@ -1,4 +1,4 @@
-# **Atención Integral en salud mental**
+# **Atención integral en salud mental**
 
 ## **Enlace GitHubPages**
 
