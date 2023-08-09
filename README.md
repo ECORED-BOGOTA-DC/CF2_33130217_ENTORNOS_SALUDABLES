@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-bogota-dc.github.io/CF2_33130217_ENTORNOS_SALUDABLES/](https://ecored-bogota-dc.github.io/CF2_33130217_ENTORNOS_SALUDABLES/)
+[https://ecored-bogota-dc.github.io/CF2_33130226_CUIDAD_SALUD_MENTAL/#/](https://ecored-bogota-dc.github.io/CF2_33130226_CUIDAD_SALUD_MENTAL/#/)
 
 #
 
