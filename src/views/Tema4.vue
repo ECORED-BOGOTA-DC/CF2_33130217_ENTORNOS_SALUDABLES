@@ -224,7 +224,7 @@
       .row.align-items-center
         .col-12
           figure
-            img(src='@/assets/curso/tema4/img3.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+            img(src='@/assets/curso/tema4/img4.svg', style="width: 480px" ,alt='Texto que describa la imagen').m-auto
 
 </template>
 

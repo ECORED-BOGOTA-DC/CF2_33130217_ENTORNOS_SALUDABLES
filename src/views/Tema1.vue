@@ -259,7 +259,7 @@
               figure
                 img(src='@/assets/curso/tema1/img8.svg', style="width: 220px" ,alt='Texto que describa la imagen').m-auto
             .col-lg-8
-              p "Para conocer más a fondo sobre el tema, se puede consultar el siguiente documento para el desarrollo de capacidades dispuesto por el Ministerio de Salud, denominado:
+              p Para conocer más a fondo sobre el tema, se puede consultar el siguiente documento para el desarrollo de capacidades dispuesto por el Ministerio de Salud, denominado:
               p.mb-4 #[b Lineamiento de Participación Social en Salud Mental]
               a.boton.color-acento-botones.texto-blanco(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ENT/Lineamiento-participacion-social-Salud-mental.pdf" target="_blank" type="application/pdf")
                 span(style="color: #12263F !important") Enlace

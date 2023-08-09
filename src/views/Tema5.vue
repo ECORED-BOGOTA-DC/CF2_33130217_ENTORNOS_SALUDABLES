@@ -48,7 +48,7 @@
                 img(src='@/assets/curso/tema5/img1.svg', style="width: 220px" ,alt='Texto que describa la imagen').m-auto
             .col-lg-8
               p En el siguiente video, se contextualiza un poco sobre las generalidades y principios de las RIAS:
-              p.mb-4 #[b Ruta Integral de Atención en Salud]
+              p.mb-4 #[b Rutas Integrales de Atención en Salud]
               a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=OQ8PuL4ft1U" target="_blank" type="application/pdf")
                 span(style="color: #12263F !important") Enlace
                 i.fas.fa-file-download(style="color: #12263F !important")
@@ -138,21 +138,21 @@
     .row.align-items-end.justify-content-center.mb-5
       .col-auto.m-2
         figure.fig-p1
-          img(src='@/assets/curso/tema5/img7.png', style="width: 90px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema5/img3.svg', style="width: 90px" ,alt='Texto que describa la imagen').m-auto
         .row
           .col-12.bg-c6
             .px-4.py-3
               p.text-center.mb-0 #[b Personas]
       .col-auto.m-2
         figure.fig-p1
-          img(src='@/assets/curso/tema5/img8.png', style="width: 90px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema5/img4.svg', style="width: 90px" ,alt='Texto que describa la imagen').m-auto
         .row
           .col-12.bg-c7
             .px-4.py-3
               p.text-center.mb-0 #[b Familias]
       .col-auto.m-2
         figure.fig-p1
-          img(src='@/assets/curso/tema5/img9.png', style="width: 90px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema5/img5.svg', style="width: 90px" ,alt='Texto que describa la imagen').m-auto
         .row
           .col-12.bg-c8
             .px-4.py-3

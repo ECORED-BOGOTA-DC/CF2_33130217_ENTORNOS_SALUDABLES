@@ -54,26 +54,26 @@
       .col-11.col-md-8.col-lg.bg-c14.m-2
         .p-4
           figure.mb-4
-            img(src='@/assets/curso/tema9/img3.png', style="width: 70px" ,alt='Texto que describa la imagen')
+            img(src='@/assets/curso/tema9/img4.svg', style="width: 70px" ,alt='Texto que describa la imagen')
           p #[b Dependencia]
           p Se refiere al uso constante de drogas o alcohol a pesar de problemas graves ocasionados por el consumo.
           p.mb-0 Las características incluyen tolerancias y necesidades biológicas y psicológicas de consumo, el abandono de todo tipo de actividades para consumir.
       .col-11.col-md-8.col-lg.bg-c14.m-2
         .p-4
           figure.mb-4
-            img(src='@/assets/curso/tema9/img4.png', style="width: 70px" ,alt='Texto que describa la imagen')
+            img(src='@/assets/curso/tema9/img5.svg', style="width: 70px" ,alt='Texto que describa la imagen')
           p #[b Clasificación]
           p.mb-0 #[b Física]: implica un cambio permanente en el funcionamiento biológico del cuerpo y cerebro, generando tolerancia y por  ende requerimiento de dosis mas altas cada vez Psicológica.
       .col-11.col-md-8.col-lg.bg-c14.m-2
         .p-4
           figure.mb-4
-            img(src='@/assets/curso/tema9/img5.png', style="width: 70px" ,alt='Texto que describa la imagen')
+            img(src='@/assets/curso/tema9/img6.svg', style="width: 70px" ,alt='Texto que describa la imagen')
           p #[b Abuso]
           p.mb-0 Se refiere al uso de sustancias de manera compulsiva, lo que conduce a problemas graves como ausencias escolares , laborales, consumo de drogas en situaciones indebidas, problemas legales, conflictos interpersonales debido a el consumo.
       .col-11.col-md-8.col-lg.bg-c14.m-2
         .p-4
           figure.mb-4
-            img(src='@/assets/curso/tema9/img6.png', style="width: 70px" ,alt='Texto que describa la imagen')
+            img(src='@/assets/curso/tema9/img7.svg', style="width: 70px" ,alt='Texto que describa la imagen')
           p #[b Uso]
           p.mb-0 Se refiere a la utilización aislada, episódica y/u ocasional sin generar dependencia  o problemas de salud. Se definen tres tipos:
           p #[b Experimental]: cuando una persona inicia el uso de una o mas sustancias, una o dos veces  y decide no volverlo hacer.

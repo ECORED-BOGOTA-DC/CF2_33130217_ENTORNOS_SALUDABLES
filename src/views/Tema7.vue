@@ -110,7 +110,7 @@
     .row.mb-5
       .col-auto
         figure
-          img(src='@/assets/curso/tema7/img9.png', style="width: 70px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema7/img7.svg', style="width: 70px" ,alt='Texto que describa la imagen').m-auto
       .col
         p.mb-0 Los entornos protectores son ámbitos en los que se cuidan de los niños, niñas y las personas o comunidades en situación de vulnerabilidad, promoviendo la cultura del buen trato, y la tolerancia independientemente de las características o condiciones de cada sujeto. Uno de los objetivos principales de los entornos protectores es asegurar el derecho intrínseco de todos a crecer y desarrollarse plenamente.
     .row
