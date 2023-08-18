@@ -9,7 +9,7 @@
     .row.mb-5(data-aos="fade-right")
       .col-auto
         figure
-          img(src='@/assets/curso/tema9/img1.png', style="width: 70px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema9/img1.png', style="width: 70px" ,alt='').m-auto
       .col
         p.mb-0 El consumo de sustancias ilegales se ha visto disparado en los últimos años, esto debido al aumento de la distribución y diversidad de drogas que aparecen en el mercado. El incremento del evento en las mujeres adolescentes, así como mayor acceso a la marihuana son unas de las razones que explican este creciente fenómeno.
     .row.justify-content-center.mb-5(data-aos="fade-left")
@@ -45,7 +45,7 @@
     .row.align-items-center.mb-5
       .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema9/img2.png', style="width: 550px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema9/img2.png', style="width: 550px" ,alt='').m-auto
       .col-lg-7(data-aos="fade-left")
         p.mb-0 La línea entre los diferentes niveles de tolerancia y manejo de una sustancia psicoactiva es débil y fácilmente una persona puede pasar del uso, al abuso y dependencia a las SPA. Los factores de riesgo que cada persona identifique, tienen un gran peso en el desencadenante más complejo del consumo, que es la dependencia y es un trastorno mental, que debe ser tratado como una enfermedad y no como un problema individual o social.
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
@@ -54,26 +54,26 @@
       .col-11.col-md-8.col-lg.bg-c14.m-2
         .p-4
           figure.mb-4
-            img(src='@/assets/curso/tema9/img4.svg', style="width: 70px" ,alt='Texto que describa la imagen')
+            img(src='@/assets/curso/tema9/img4.svg', style="width: 70px" ,alt='')
           p #[b Dependencia]
           p Se refiere al uso constante de drogas o alcohol a pesar de problemas graves ocasionados por el consumo.
           p.mb-0 Las características incluyen tolerancias y necesidades biológicas y psicológicas de consumo, el abandono de todo tipo de actividades para consumir.
       .col-11.col-md-8.col-lg.bg-c14.m-2
         .p-4
           figure.mb-4
-            img(src='@/assets/curso/tema9/img5.svg', style="width: 70px" ,alt='Texto que describa la imagen')
+            img(src='@/assets/curso/tema9/img5.svg', style="width: 70px" ,alt='')
           p #[b Clasificación]
           p.mb-0 #[b Física]: implica un cambio permanente en el funcionamiento biológico del cuerpo y cerebro, generando tolerancia y por  ende requerimiento de dosis más altas cada vez Psicológica.
       .col-11.col-md-8.col-lg.bg-c14.m-2
         .p-4
           figure.mb-4
-            img(src='@/assets/curso/tema9/img6.svg', style="width: 70px" ,alt='Texto que describa la imagen')
+            img(src='@/assets/curso/tema9/img6.svg', style="width: 70px" ,alt='')
           p #[b Abuso]
           p.mb-0 Se refiere al uso de sustancias de manera compulsiva, lo que conduce a problemas graves como ausencias escolares, laborales, consumo de drogas en situaciones indebidas, problemas legales, conflictos interpersonales debido a el consumo.
       .col-11.col-md-8.col-lg.bg-c14.m-2
         .p-4
           figure.mb-4
-            img(src='@/assets/curso/tema9/img7.svg', style="width: 70px" ,alt='Texto que describa la imagen')
+            img(src='@/assets/curso/tema9/img7.svg', style="width: 70px" ,alt='')
           p #[b Uso]
           p.mb-0 Se refiere a la utilización aislada, episódica y/u ocasional sin generar dependencia  o problemas de salud. Se definen tres tipos:
           p #[b Experimental]: cuando una persona inicia el uso de una o mas sustancias, una o dos veces  y decide no volverlo hacer.
@@ -94,7 +94,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema9/img1.svg')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
               figure.mb-4
-                img(src='@/assets/curso/tema9/img7.png', style="width: 70px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema9/img7.png', style="width: 70px" ,alt='').m-auto
               p.text-center #[b ESTIMULANTES]
               p.text-center Sustancias que aceleran y alteran la química y el funcionamiento cerebral, provocando estados de activación, mejoría, excitación e hiperactividad.
               p.text-center Ejemplos
@@ -105,7 +105,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema9/img2.svg')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
               figure.mb-4
-                img(src='@/assets/curso/tema9/img7.png', style="width: 70px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema9/img7.png', style="width: 70px" ,alt='').m-auto
               p.text-center #[b DEPRESORAS]
               p.text-center Drogas que generan letargo, enlentecimiento del funcionamiento sistémico, depresión de las funciones sensoriales y vegetativas; yendo desde desinhibición hasta estupor, coma y depresión respiratoria. 
               p.text-center Ejemplos
@@ -116,7 +116,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema9/img3.svg')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
               figure.mb-4
-                img(src='@/assets/curso/tema9/img7.png', style="width: 70px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema9/img7.png', style="width: 70px" ,alt='').m-auto
               p.text-center #[b ALUCINÓGENOS]
               p.text-center Drogas que alteran la química y funcionamiento cerebral dando lugar a distorsiones sensoriales que alteran la percepción e interpretación de los estímulos.
               p.text-center Ejemplos
@@ -319,35 +319,35 @@
               p.mb-0 Prevención del consumo a través de programas de educación en escuelas, universidades, familias y comunidades, que busquen el cuidado y desarrollo de entornos saludables.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema9/img13.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema9/img13.png', style="width: 500px" ,alt='').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b El derecho]
               p.mb-0 Garantizar el derecho a tratamientos oportunos y gratuitos con profesionales capacitados buscando disminuir los daños que genera la dependencia y consumo abusivo de sustancias.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema9/img14.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema9/img14.png', style="width: 500px" ,alt='').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b La identificación]
               p.mb-0 Identificación de las poblaciones que adquieren patologías mentales secundarias al consumo de sustancias psicoactivas.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema9/img15.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema9/img15.png', style="width: 500px" ,alt='').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b El fortalecimiento]
               p.mb-0 Fortalecimiento de los centros que se encargan de la rehabilitación.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema9/img16.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema9/img16.png', style="width: 500px" ,alt='').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b Las campañas]
               p.mb-0 Campañas educativas masivas, que promuevan la inclusión social, disminuyan el estigma y favorezcan la recuperación de los grupos afectados.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema9/img17.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema9/img17.png', style="width: 500px" ,alt='').m-auto
 
 </template>
 

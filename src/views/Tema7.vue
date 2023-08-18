@@ -41,49 +41,49 @@
                   p.mb-0 Garantía de la seguridad alimentaria con dietas balanceadas,  buenos hábitos de sueño.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema7/img1.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema7/img1.png', style="width: 500px" ,alt='').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b Espacios seguros]
               p.mb-0 Crear contextos y espacios  seguros que ofrezcan formación, brinden comprensión y cultiven herramientas necesarias para conservar una estructura mental saludable.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema7/img2.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema7/img2.png', style="width: 500px" ,alt='').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b Hogares saludables]
               p.mb-0 Promoción de redes de educación y apoyo en las comunidades para las madres y padres en la formación de la primera infancia y adolescencia, buscando generar herramientas para generar hogares saludables, donde se  practique el buen trato, la comunicación asertiva y se cultive la resiliencia.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema7/img3.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema7/img3.png', style="width: 500px" ,alt='').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b La autoestima]
               p.mb-0 Fortalecimiento de autoestima, en espacios que  permitan la expresión, el auto reconocimiento, la identificación de  los intereses propios del sujeto, para así librar  prototipos y expectativas impuestas.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema7/img4.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema7/img4.png', style="width: 500px" ,alt='').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b Redes de apoyo]
               p.mb-0 Garantizar buenas redes de apoyo para las comunidades (querer y ser querido).
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema7/img5.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema7/img5.png', style="width: 500px" ,alt='').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b Educación en inteligencia emocional]
               p.mb-0 Promover la educación en inteligencia emocional, que  permita desarrollar tolerancia a la frustración y situaciones estresantes, procurando el reconocimiento de los sentimientos y emociones,  sin rotularlos y expresarlos de una forma acertada.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema7/img6.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema7/img6.png', style="width: 500px" ,alt='').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b Liderazgo]
               p.mb-0 Impulsar el liderazgo y la gobernanza de las comunidades para generar mesas de participación donde se tengan en cuenta las necesidades según el ciclo vital de los sujetos y promover la creación de políticas públicas que tengan en cuenta esto.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema7/img7.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema7/img7.png', style="width: 500px" ,alt='').m-auto
     Separador
     #t_7_2
     .titulo-segundo.color-acento-contenido
@@ -91,7 +91,7 @@
     .row.align-items-center.mb-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema7/img8.png', style="width: 300px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema7/img8.png', style="width: 300px" ,alt='').m-auto
       .col-lg-8(data-aos="fade-left")
         p La coordinación intersectorial según la OPS, #[b.txt-c1 #[i “se expresa en acciones dirigidas al involucramiento paulatino de diferentes actores en el proceso de toma de decisiones, apuntando a la solución efectiva de problemas, para lo cual, es necesario generar espacios adecuados para compartir liderazgos, recursos, líneas estratégicas, oportunidades y realizar una planificación conjunta”]] (2014).
         p La respuesta integral y coordinada de los sectores que determinan en cierta medida la buena salud mental es fundamental, al buscar coaliciones y trabajar en equipo de manera transversal es el mayor objetivo desde el hacer de la promoción y prevención en la salud mental. Abordar las problemáticas desde la intersectorialidad promete entornos y políticas más efectivas pues como ya se mencionó son muchos los factores que influyen en una buena salud mental (desde un entorno familiar y escolar saludable, hasta la vivienda justa, empleo, seguridad alimentaria, cultura, y otros múltiples sectores públicos) (ver figura 3).
@@ -100,7 +100,7 @@
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-10
         figure
-          img(src='@/assets/curso/tema7/img1.svg', style="width: 1000px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema7/img1.svg', style="width: 1000px" ,alt='').m-auto
           figcaption.mt-3 Nota. CEPAL (2019).
     Separador
     #t_7_3
@@ -109,7 +109,7 @@
     .row.mb-5(data-aos="fade-right")
       .col-auto
         figure
-          img(src='@/assets/curso/tema7/img7.svg', style="width: 70px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema7/img7.svg', style="width: 70px" ,alt='').m-auto
       .col
         p.mb-0 Los entornos protectores son ámbitos en los que se cuidan de los niños, niñas y las personas o comunidades en situación de vulnerabilidad, promoviendo la cultura del buen trato, y la tolerancia independientemente de las características o condiciones de cada sujeto. Uno de los objetivos principales de los entornos protectores es asegurar el derecho intrínseco de todos a crecer y desarrollarse plenamente.
     .row
@@ -142,7 +142,7 @@
                 p.mb-0 Apostar a programas intersectoriales y  transdisciplinares que fortalezcan estrategias de promoción de la salud y prevención de enfermedades.
       .col-lg-3(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/tema7/img3.svg', style="width: 280px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema7/img3.svg', style="width: 280px" ,alt='').m-auto
     Separador
     #t_7_4
     .titulo-segundo.color-acento-contenido
@@ -150,7 +150,7 @@
     .row.align-items-center.mb-3
       .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema7/img10.png', style="width: 480px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema7/img10.png', style="width: 480px" ,alt='').m-auto
       .col-lg-7(data-aos="fade-left")
         p.mb-0 Se trata de un enfoque donde se promueven las habilidades y la dignidad de las personas que por su identidad y características como el género, edad, ocupación, etnia, religión, nacionalidad, discapacidad y orientación sexual son rechazadas y estigmatizadas. Un gran porcentaje de la recuperación del individuo con problemas de salud mental está determinado por la forma en la que el entorno los acoge; la estigmatización genera exclusión lo cual lleva a una limitación en el sujeto que termina en la desadaptación social. El estigma rotula, es totalizante pues define a la persona bajo un todo. Uno de los principales prejuicios asumido en el imaginario colectivo es la asociación de las personas con problemas mentales y consumo de sustancias a la peligrosidad, homogenizando independientemente de la realidad que hay detrás de ello; no se desconoce la presentación de esta conducta en los sujetos con estos trastornos; sin embargo, la agresividad se da en un porcentaje mínimo, no significativo si se compara con el resto de población general.
     p(data-aos="fade-right") La doble discapacidad que sufren las personas con problemas de salud mental y consumo de sustancias se refiere a la discapacidad que representa la condición, pero además a la inhabilitación que proviene de la sociedad, y de la auto estigmatización de los sujetos debido a esto.
@@ -161,7 +161,7 @@
           .row.align-items-center
             .col-lg-4.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/tema7/img4.svg', style="width: 220px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema7/img4.svg', style="width: 220px" ,alt='').m-auto
             .col-lg-8
               p En el siguiente video, se comparte un ejemplo de inclusión social, desde el Servicio Nacional de Aprendizaje:
               p.mb-4 #[b Generalidades de inclusión social SENA]
@@ -194,14 +194,14 @@
                 p.mb-0 Buscar apoyo en los medios de comunicación para sensibilizar  y difundir información, historias, experiencias de recuperación, de convivencia sana en las personas con trastornos de la salud mental o consumo de sustancias  siempre desde una visión en positivo.
       .col-lg-3(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/tema7/img5.svg', style="width: 280px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema7/img5.svg', style="width: 280px" ,alt='').m-auto
     .row
       .col-12.bg-c3(data-aos="fade-left")
         .px-4.pt-4.pb-4.pb-lg-0
           .row.align-items-center
             .col-lg-4.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/tema7/img6.svg', style="width: 220px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema7/img6.svg', style="width: 220px" ,alt='').m-auto
             .col-lg-8
               p Con el siguiente video, se explica el concepto de la Inclusión Social como estrategia de la República:
               p.mb-4 #[b ¿Qué es la inclusión social?]

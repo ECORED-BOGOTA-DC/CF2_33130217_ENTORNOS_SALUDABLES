@@ -18,7 +18,7 @@
       .col-md-8.col-lg.bg-c11.m-2
         .p-4
           figure.mb-4
-            img(src='@/assets/curso/tema8/img1.png', style="width: 70px" ,alt='Texto que describa la imagen')
+            img(src='@/assets/curso/tema8/img1.png', style="width: 70px" ,alt='')
           p.mb-0 #[b Sensibilización]
           p Sospeche de conductas suicidas en los siguientes casos:
           ul.lista-ul.mb-0
@@ -49,7 +49,7 @@
       .col-md-8.col-lg.bg-c11.m-2
         .p-4
           figure.mb-4
-            img(src='@/assets/curso/tema8/img2.png', style="width: 70px" ,alt='Texto que describa la imagen')
+            img(src='@/assets/curso/tema8/img2.png', style="width: 70px" ,alt='')
           p #[b Identificación de caso]
           ul.lista-ul.mb-0
             li.d-flex
@@ -71,7 +71,7 @@
       .col-md-8.col-lg.bg-c11.m-2
         .p-4
           figure.mb-4
-            img(src='@/assets/curso/tema8/img3.png', style="width: 70px" ,alt='Texto que describa la imagen')
+            img(src='@/assets/curso/tema8/img3.png', style="width: 70px" ,alt='')
           p #[b Reporte la naturaleza del caso]
           ul.lista-ul
             li.d-flex
@@ -167,7 +167,7 @@
             p.mb-0 Vivir solo.
       .col-lg-4
         figure
-          img(src='@/assets/curso/tema8/img2.svg', style="width: 400px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema8/img2.svg', style="width: 400px" ,alt='').m-auto
     Separador
     #t_8_2
     .titulo-segundo.color-acento-contenido
@@ -176,7 +176,7 @@
     .row.align-items-center(data-aos="fade-down")
       .col-lg-4.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/tema8/img3.svg', style="width: 400px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema8/img3.svg', style="width: 400px" ,alt='').m-auto
       .col-lg-8
         p Algunos de los eventos precipitantes más comunes son:
         ul.lista-ul.mb-0
@@ -233,28 +233,28 @@
             p.mb-0 La educación, la sensibilización respecto a problemáticas de salud mental, el consumo de SPA y conductas suicidas, junto a la gestión de redes de apoyo que brinden herramientas para el desarrollo de habilidades que permitan el empoderamiento de líderes en las comunidades y familias.
           .col-lg-4
             figure
-              img(src='@/assets/curso/tema8/img4.png', style="width: 350px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema8/img4.png', style="width: 350px" ,alt='').m-auto
       .tarjeta.color-acento-botones.p-4(titulo="Los programas")
         .row
           .col-lg-8.mb-4.mb-lg-0
             p.mb-0 El desarrollo de programas que busquen espacios propicios para la reflexión, el desarrollo de la cultura del buen trato y el cuidado, son formas de poner en práctica el fortalecimiento a nivel comunitario y familiar.
           .col-lg-4
             figure
-              img(src='@/assets/curso/tema8/img5.png', style="width: 350px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema8/img5.png', style="width: 350px" ,alt='').m-auto
       .tarjeta.color-acento-botones.p-4(titulo="Las condiciones socioeconómicas<br>y culturales")
         .row
           .col-lg-8.mb-4.mb-lg-0
             p.mb-0 El desarrollo de habilidades para la vida necesita de buenas condiciones socioeconómicas y culturales. Un estado de bienestar que garantice una vivienda digna, educación, espacios que fomenten el esparcimiento, la creatividad y el buen trato son factores directamente relacionados con la resiliencia y empoderamiento de entornos familiares y comunitarios.
           .col-lg-4
             figure
-              img(src='@/assets/curso/tema8/img6.png', style="width: 350px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema8/img6.png', style="width: 350px" ,alt='').m-auto
       .tarjeta.color-acento-botones.p-4(titulo="Las necesidades")
         .row
           .col-lg-8.mb-4.mb-lg-0
             p.mb-0 La respuesta a las necesidades según el ciclo de vida en el que se encuentren los sujetos y las familias son trascendentales en el desarrollo de políticas que busquen la promoción de hogares y comunidades capacitados para brindar solución a las problemáticas de salud mental como  el suicido.
           .col-lg-4
             figure
-              img(src='@/assets/curso/tema8/img7.png', style="width: 350px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema8/img7.png', style="width: 350px" ,alt='').m-auto
 
 </template>
 

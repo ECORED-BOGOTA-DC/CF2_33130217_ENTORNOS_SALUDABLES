@@ -9,7 +9,7 @@
     .row.align-items-center.mb-3(data-aos="fade-down")
       .col-auto
         figure
-          img(src='@/assets/curso/tema5/img1.png', style="width: 70px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema5/img1.png', style="width: 70px" ,alt='').m-auto
       .col
         p.mb-0 El objetivo de las RIAS es regular las condiciones necesarias para asegurar la integralidad en la atención en Salud para las personas, familias y comunidades por parte de los diferentes integrantes del SGSSS y demás entidades que tengan a su cargo acciones en salud a efectos de contribuir al mejoramiento de los resultados en salud y reducir la carga de la enfermedad. (Ministerio de Salud, 2016).
     p.mb-5(data-aos="fade-right") Las rutas que se han establecido son de tres tipos:
@@ -19,7 +19,7 @@
           .tarjeta-numerada__numero
             .h2 1
           figure.mb-4
-            img(src='@/assets/curso/tema5/img2.png', style="width: 60px" ,alt='Texto que describa la imagen')
+            img(src='@/assets/curso/tema5/img2.png', style="width: 60px" ,alt='')
           p #[b Ruta de promoción y mantenimiento de la salud]
           p.mb-0 Enfocada al manejo y mitigación del riesgo colectivo y la protección de la salud en general.
       .col-md-6.col-xl.mb-4.mb-xl-0
@@ -27,7 +27,7 @@
           .tarjeta-numerada__numero
             .h2 2
           figure.mb-4
-            img(src='@/assets/curso/tema5/img3.png', style="width: 60px" ,alt='Texto que describa la imagen')
+            img(src='@/assets/curso/tema5/img3.png', style="width: 60px" ,alt='')
           p #[b Rutas de grupo de riesgo]
           p.mb-0 Buscan identificar oportunamente factores de riesgo para generar una intervención más rápida.
       .col-md-6.col-xl.mb-4.mb-xl-0
@@ -35,7 +35,7 @@
           .tarjeta-numerada__numero
             .h2 3
           figure.mb-4
-            img(src='@/assets/curso/tema5/img4.png', style="width: 60px" ,alt='Texto que describa la imagen')
+            img(src='@/assets/curso/tema5/img4.png', style="width: 60px" ,alt='')
           p #[b Rutas específicas de atención]
           p.mb-0 Estas rutas se enfocan en el abordaje integral de condiciones específicas de salud.
     p.mb-5(data-aos="fade-right") El Ministerio de Salud adoptó diversas Rutas Integrales de Atención, entre las que se encuentra la ruta para la población con riesgo o presencia de trastornos mentales y del comportamiento manifiesto debido a uso de sustancias psicoactivas y adicciones.
@@ -45,7 +45,7 @@
           .row.align-items-center
             .col-lg-4.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/tema5/img1.svg', style="width: 220px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema5/img1.svg', style="width: 220px" ,alt='').m-auto
             .col-lg-8
               p En el siguiente video, se contextualiza un poco sobre las generalidades y principios de las RIAS:
               p.mb-4 #[b Rutas Integrales de Atención en Salud]
@@ -58,7 +58,7 @@
         p.mb-0 Los dieciséis (16) grupos de riesgo priorizados por el Ministerio de Salud para la elaboración de Rutas Integrales de Atención en Salud son los siguientes (ver tabla 2):
       .col-lg-5(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/tema5/img5.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema5/img5.png', style="width: 500px" ,alt='').m-auto
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
       p.mb-0 #[b Tabla 2]. Grupos de riesgo
     .row.justify-content-center.mb-5
@@ -123,7 +123,7 @@
     .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
-          img(src='@/assets/curso/tema1/img1.svg', style="width: 66px" ,alt='Texto que describa la imagen')
+          img(src='@/assets/curso/tema1/img1.svg', style="width: 66px" ,alt='')
       .col-auto.bg-c2(style="z-index:1")
         .py-3.px-3
           h3.mb-0.ms-0.ms-lg-2 Problemas y trastornos mentales
@@ -134,25 +134,25 @@
         p.mb-0 Las RIAS en salud mental están centradas para su orientación operativa en:
       .col-lg-4(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/tema5/img6.png', style="width: 300px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema5/img6.png', style="width: 300px" ,alt='').m-auto
     .row.align-items-end.justify-content-center.mb-5(data-aos="fade-right")
       .col-auto.m-2
         figure.fig-p1
-          img(src='@/assets/curso/tema5/img3.svg', style="width: 90px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema5/img3.svg', style="width: 90px" ,alt='').m-auto
         .row
           .col-12.bg-c6
             .px-4.py-3
               p.text-center.mb-0 #[b Personas]
       .col-auto.m-2
         figure.fig-p1
-          img(src='@/assets/curso/tema5/img4.svg', style="width: 90px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema5/img4.svg', style="width: 90px" ,alt='').m-auto
         .row
           .col-12.bg-c7
             .px-4.py-3
               p.text-center.mb-0 #[b Familias]
       .col-auto.m-2
         figure.fig-p1
-          img(src='@/assets/curso/tema5/img5.svg', style="width: 90px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema5/img5.svg', style="width: 90px" ,alt='').m-auto
         .row
           .col-12.bg-c8
             .px-4.py-3
@@ -181,49 +181,49 @@
               p.mb-0 Caracterización de la población afiliada a los diferentes regímenes identificando: riesgos, ubicación geográfica, oferta de servicios disponibles, características y circunstancias poblacionales de las personas con trastornos mentales, consumo de sustancias psicoactivas y epilepsia en cada uno de los ciclos de vida.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema5/img12.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema5/img12.png', style="width: 500px" ,alt='').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b ASIS]
               p.mb-0 Participación en el ASIS - Análisis de Situación Actual de Salud convocados los territorios donde se encuentre la población afiliada.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema5/img13.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema5/img13.png', style="width: 500px" ,alt='').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b Redes integrales]
               p.mb-0 Incluir redes integrales de prestadores para la atención de personas con problemas mentales, trastornos mentales, consumo de sustancias psicoactivas y epilepsia, incluyendo cuidadores y familiares.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema5/img14.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema5/img14.png', style="width: 500px" ,alt='').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b Modelos de atención]
               p.mb-0 Inclusión de modelos de atención, estrategias de promoción, prevención y gestión del riesgo, teniendo en cuenta la individualidad de las personas y las características  del entorno, los ciclos de vida, el género y las características de su cultura.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema5/img15.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema5/img15.png', style="width: 500px" ,alt='').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b Riesgo individual]
               p.mb-0 El riesgo individual a través de la articulación de las acciones de los prestadores de servicios en salud y los planes de intervenciones colectivas.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema5/img16.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema5/img16.png', style="width: 500px" ,alt='').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b Beneficios]
               p.mb-0 Garantizar acceso a todos los beneficios en salud para las personas con problemas mentales, trastornos mentales, consumo de sustancias psicoactivas y epilepsia: procedimientos, medicamentos, consultas.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema5/img17.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema5/img17.png', style="width: 500px" ,alt='').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               p #[b RIA]
               p.mb-0 Todas las personas atendidas en la RIA para personas con problemas mentales, trastornos mentales, consumo de sustancias psicoactivas y epilepsia, en el marco de su evaluación psicosocial, deberán ser valoradas para situaciones de violencia; de igual manera, toda persona en quien se documente violencia interpersonal, basada en género y/o en el marco del conflicto armado, deberá ser tamizada para identificar problemas mentales, trastornos mentales, consumo de sustancias psicoactivas y epilepsia.
             .col-lg-5
               figure
-                img(src='@/assets/curso/tema5/img18.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema5/img18.png', style="width: 500px" ,alt='').m-auto
     .row.justify-content-center
       .col-lg-10
         .bloque-texto-a.color-secundario.p-4.p-md-5(data-aos="fade-left")

@@ -13,7 +13,7 @@
           .row.align-items-center
             .col-lg-4.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/tema2/img1.svg', style="width: 220px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema2/img1.svg', style="width: 220px" ,alt='').m-auto
             .col-lg-8
               p #[b Resolución 518 de 2015]
               p.mb-4 Por la cual se dictan disposiciones en relación con la gestión pública.
@@ -35,28 +35,28 @@
         .row.align-items-center(titulo="1")
           .col-lg-4.mb-4.mb-lg-0
             figure
-              img(src='@/assets/curso/tema2/img2.svg', style="width: 130px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema2/img2.svg', style="width: 130px" ,alt='').m-auto
           .col-lg-8
             p.mb-0 #[b.fs-5 Identificar las personas que dentro de la comunidad estén diagnosticadas con problemas o trastornos mentales o aquellas que tengan un alto riesgo de poder desarrollarlas:]
             p.mb-0 Esta acción es desarrollada por Talento Humano con conocimiento del tema de salud mental y que tenga acceso y manejo a los sistemas de información en salud en el territorio especificado. La información se consulta en las historias clínicas y en las caracterizaciones de población que permiten identificar riesgos.
         .row.align-items-center(titulo="2")
           .col-lg-4.mb-4.mb-lg-0
             figure
-              img(src='@/assets/curso/tema2/img3.svg', style="width: 280px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema2/img3.svg', style="width: 280px" ,alt='').m-auto
           .col-lg-8
             p.mb-0 #[b.fs-5 Acercamiento a la población a través de visitas domiciliarias:]
             p.mb-0 El objetivo es que por lo menos se realicen tres visitas por parte del personas de Talento Humano en salud, en donde se busca identificar la conformación del grupo familiar, redes de apoyo, la o las personas con problemas o trastornos mentales o psicológicos, necesidades, diagnósticos, intereses y factores de riesgo asociados a que la condición, canalización de servicios de atención.
         .row.align-items-center(titulo="3")
           .col-lg-4.mb-4.mb-lg-0
             figure
-              img(src='@/assets/curso/tema2/img4.svg', style="width: 280px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema2/img4.svg', style="width: 280px" ,alt='').m-auto
           .col-lg-8
             p.mb-0 #[b.fs-5 Formar a las comunidades y entrenarlas en RBC y temas de salud mental:]
             p.mb-0 Se convoca a los equipos básicos de salud de los territorios, líderes, cuidadores y familias para realizar procesos de entrenamiento y sensibilización sobre la estrategia RBC, salud mental, derechos en salud, planes de beneficios en salud y entrenarlos para la identificación temprana de signos, síntomas y factores de riesgo en salud mental.
         .row.align-items-center(titulo="4")
           .col-lg-4.mb-4.mb-lg-0
             figure
-              img(src='@/assets/curso/tema2/img5.svg', style="width: 280px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema2/img5.svg', style="width: 280px" ,alt='').m-auto
           .col-lg-8
             p.mb-0 #[b.fs-5 Organizar, conformar y/o fortalecer los grupos de apoyo y ayuda mutua:]
             p.mb-0 Estas organizaciones son fundamentales y las comunidades deben conocer la finalidad, funcionamiento y objetivos de estos grupos.
@@ -66,7 +66,7 @@
           .row.align-items-center
             .col-lg-4.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/tema2/img7.svg', style="width: 220px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema2/img7.svg', style="width: 220px" ,alt='').m-auto
             .col-lg-8
               p En el siguiente video, se describe la importancia de la RBC en Colombia, según el Ministerio de Salud y Protección Social:
               p.mb-4 #[b Lineamiento de RBC]

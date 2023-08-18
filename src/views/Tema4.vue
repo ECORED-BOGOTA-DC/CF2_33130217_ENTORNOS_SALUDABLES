@@ -9,7 +9,7 @@
     .row.align-items-center.mb-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema4/img1.png', style="width: 280px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema4/img1.png', style="width: 280px" ,alt='').m-auto
       .col-lg-8(data-aos="fade-left")
         p La Red Nacional para el Estrés Traumático Infantil y el Centro Nacional de Trastorno de Estrés Postraumático (2006), plantean que los Primeros Auxilios Psicológicos (PAP) están diseñados para reducir a corto y largo plazo la angustia inicial producida por eventos traumáticos y para promover el funcionamiento adaptativo y las habilidades de afrontamiento. Los principios y las técnicas de los PAP son cumplir con cuatro requisitos básicos:
         ul.lista-ul.mb-0
@@ -35,7 +35,7 @@
           .row.align-items-center
             .col-lg-4.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/tema4/img1.svg', style="width: 220px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema4/img1.svg', style="width: 220px" ,alt='').m-auto
             .col-lg-8
               p En el siguiente documento la Organización Panamericana de la Salud, dispuso información relacionada con la presente temática; en respuesta a emergencias y desastres, apoyando a las personas tras un incidente crítico.
               p.mb-4 #[b Primera Ayuda Psicológica (PAP)]
@@ -53,7 +53,7 @@
         p.mb-0 Es importante tener presente que no todas las personas manejan sus recursos emocionales y psicológicos de la misma forma; por tanto, los desencadenantes son diversos como la misma diversidad humana. Aquí lo importante es entender que a pesar de la desregulación, todas las personas cuentan con insumos propios, experiencia y aprendizaje, que pueden ayudar a superar la crisis. Cuando esto no sucede de forma natural, la aplicación de los PAP son necesarios y constituyen un factor protector frente a la aparición de traumas posteriores, que pueden incluso hacerse visibles a mediano y largo plazo. Los PAP representan una ayuda in situ altamente efectiva.
       .col-lg-5(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/tema4/img2.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema4/img2.png', style="width: 500px" ,alt='').m-auto
     .row.align-items-center
       .col-lg-7.bg-c5.mb-4.mb-lg-0(data-aos="fade-right")
         .row.align-items-center
@@ -61,7 +61,7 @@
             p.mb-0.ms-0.ms-lg-4 Cabe resaltar que los PAP pueden ser aplicados por cualquier persona con formación para ello, sin requerir de una experticia profesional. Su uso está recomendado para situaciones de:
           .col-lg-4
             figure
-              img(src='@/assets/curso/tema4/img2.svg', style="width: 170px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema4/img2.svg', style="width: 170px" ,alt='').m-auto
       .col-lg-5(data-aos="fade-left")
         ul.lista-ul.mb-0
           li.d-flex
@@ -224,7 +224,7 @@
       .row.align-items-center
         .col-12
           figure
-            img(src='@/assets/curso/tema4/img4.svg', style="width: 480px" ,alt='Texto que describa la imagen').m-auto
+            img(src='@/assets/curso/tema4/img4.svg', style="width: 480px" ,alt='').m-auto
 
 </template>
 

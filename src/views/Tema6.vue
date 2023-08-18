@@ -9,7 +9,7 @@
     .row(data-aos="fade-right")
       .col-auto
         figure
-          img(src='@/assets/curso/tema6/img1.png', style="width: 70px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema6/img1.png', style="width: 70px" ,alt='').m-auto
       .col
         p.mb-0 Toda forma de violencia debe ser denunciada para activar las rutas para el restablecimiento de derechos de las víctimas ya que en muchas ocasiones las personas por miedo o desconocimiento de los procesos a seguir, prefieren proteger a los victimarios con su silencio. A continuación, se detallan los aspectos claves para la activación de las rutas:
     Separador
@@ -21,7 +21,7 @@
         p.mb-0 La denuncia es la forma de encender la alarma para que las diferentes instituciones del estado inicien su trabajo, para lograr restablecer los derechos de la víctima de cualquier forma de violencia. En Colombia la Ley 906 de 2014, establece los requisitos para la denuncia, la cual puede hacerse de forma escrita, verbal o por medios electrónicos, esta debe permitir la identificación del victimario, el día la hora y una descripción de los hechos ocurridos. La importancia de la denuncia radica en la posibilidad de tener acceso a la justicia, en este caso justicia penal, a través de la Fiscalía General de la Nación, entidad encargada de realizar las investigaciones, aclarar los hechos y establecer condena en caso de que se demuestre la culpabilidad del supuesto agresor.
       .col-lg-5(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/tema6/img2.png', style="width: 520px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema6/img2.png', style="width: 520px" ,alt='').m-auto
     Separador
     #t_6_2
     .titulo-segundo.color-acento-contenido
@@ -81,7 +81,7 @@
                 p.mb-0 Casas de Justicia.
       .col-lg-5(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/tema6/img3.png', style="width: 460px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema6/img3.png', style="width: 460px" ,alt='').m-auto
     Separador
     #t_6_3
     .titulo-segundo.color-acento-contenido

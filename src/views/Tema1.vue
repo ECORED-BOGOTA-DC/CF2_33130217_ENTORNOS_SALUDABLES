@@ -12,7 +12,7 @@
           .row.align-items-center.mb-5(data-aos="fade-right")
             .col-auto
               figure
-                img(src='@/assets/curso/tema1/img1.png', style="width: 70px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema1/img1.png', style="width: 70px" ,alt='').m-auto
             .col
               p.mb-0 Con la finalidad de comprender el significado de los mecanismos de participación en salud mental, es importante definir qué es la participación social en salud y comprender específicamente qué pasa con la participación a nivel de la salud mental y los mecanismos para su puesta en práctica; es así como en el siguiente video se explicará esta definición:
           figure(data-aos="fade-left")
@@ -21,7 +21,7 @@
     .row.align-items-center.mb-4(data-aos="fade-down")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
-          img(src='@/assets/curso/tema1/img1.svg', style="width: 66px" ,alt='Texto que describa la imagen')
+          img(src='@/assets/curso/tema1/img1.svg', style="width: 66px" ,alt='')
       .col-auto.bg-c2(style="z-index:1")
         .py-3.px-4
           h3.mb-0.ms-0.ms-lg-2 La garantía de los derechos en salud es una responsabilidad del Estado
@@ -33,14 +33,14 @@
             p.mb-0 Representa la facultad que se otorga constitucionalmente a todos los ciudadanos para realizar solicitudes basadas en el respeto, ante funcionarios, entidades u organismos del sector salud, ya sea a nivel individual o colectivo.  A través de este mecanismo es posible solicitar información, pedir la prestación de un servicio, realizar quejas y reclamaciones, establecer sugerencias.
           .col-lg-4
             figure
-              img(src='@/assets/curso/tema1/img2.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema1/img2.png', style="width: 450px" ,alt='').m-auto
       .py-4.py-md-5(titulo="Acción de Tutela" :icono="require('@/assets/curso/tema1/img3.svg')")
         .row.justify-content-center
           .col-lg-7.mb-4.mb-lg-0
             p.mb-0 Es una excelente herramienta para la protección de los derechos fundamentales, que se establece ante los organismos judiciales. En el sector salud ha representado la oportunidad de lograr la atención, servicios y beneficios que están contemplados en el Plan de beneficios en Salud, pero que no se garantizan sino a través de este mecanismo.
           .col-lg-4
             figure
-              img(src='@/assets/curso/tema1/img3.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/tema1/img3.png', style="width: 450px" ,alt='').m-auto
     p.mb-5(data-aos="fade-right") Ahora bien, los procesos participativos en salud mental buscan fortalecer a las comunidades y los individuos para fomentar el desarrollo social a través de la garantía de los derechos en materia de salud mental, los cuales en Colombia están especificados en la Ley 1616 de 2013.
     .row.mb-5(data-aos="fade-down")
       .col-12.bg-c3
@@ -48,7 +48,7 @@
           .row.align-items-center
             .col-lg-4.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/tema1/img5.svg', style="width: 220px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema1/img5.svg', style="width: 220px" ,alt='').m-auto
             .col-lg-8
               p Para conocer más a fondo sobre el tema, este enlace le permitirá consultar la Ley, expedida por el Congreso de la República.
               p.mb-4 #[b Ley 1616 de 2013]
@@ -61,13 +61,13 @@
         p.mb-0 En materia de mecanismo de participación social en salud, se contemplan los siguientes escenarios, ilustrados en la siguiente figura:
       .col-lg-5(data-aos="fade-left")
         figure
-            img(src='@/assets/curso/tema1/img4.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+            img(src='@/assets/curso/tema1/img4.png', style="width: 500px" ,alt='').m-auto
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
       p.mb-0 #[b Figura 1]. Mecanismos de participación social en salud
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-10
         figure
-          img(src='@/assets/curso/tema1/img6.svg', style="width: 1000px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema1/img6.svg', style="width: 1000px" ,alt='').m-auto
           figcaption.mt-3 Nota. Ministerio de Salud (2016).
     p.mb-5(data-aos="fade-left") Así mismo, dentro de los escenarios de participación ciudadana y participación comunitaria se ha reglamentado diversos escenarios de participación, como son:
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-down")
@@ -135,7 +135,7 @@
     .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
-          img(src='@/assets/curso/tema1/img1.svg', style="width: 66px" ,alt='Texto que describa la imagen')
+          img(src='@/assets/curso/tema1/img1.svg', style="width: 66px" ,alt='')
       .col-auto.bg-c2(style="z-index:1")
         .py-3.px-3
           h3.mb-0.ms-0.ms-lg-2 Instancias de participación de las organizaciones de personas con problemas y trastornos mentales, familias y cuidadores
@@ -148,7 +148,7 @@
     .row.align-items-center.mb-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema1/img9.png', style="width: 300px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema1/img9.png', style="width: 300px" ,alt='').m-auto
       .col-lg-8(data-aos="fade-left")
         p Para entender los mecanismos de participación en salud mental es importante hacer referencia a cómo las estrategias deben promover los derechos, el liderazgo y la movilización social.
         p Por medio de estas estrategias se abren posibilidades para fortalecer procesos participativos en salud, comprendiendo que el #[b.txt-c1 "fortalecimiento es un proceso que incluye cosas como la toma de conciencia y desarrollo de capacidades que llevan a una participación mayor, a un mayor poder y control de la toma de decisiones y acciones para el cambio"] (Organización Mundial de la Salud, 2012).
@@ -158,7 +158,7 @@
     .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-lg-10
         figure
-          img(src='@/assets/curso/tema1/img7.svg', style="width: 900px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema1/img7.svg', style="width: 900px" ,alt='').m-auto
           figcaption.mt-3 Nota. Organización Mundial de la Salud, (2012).
     .row.mb-4(data-aos="fade-right")
       .col-auto.bg-c4
@@ -171,7 +171,7 @@
         p.mb-0 Los niveles de participación individual y comunitaria gestan procesos organizativos que visibilizan los intereses y las necesidades comunes para trabajar conjuntamente en alcanzar un mismo objetivo.
       .col-lg-4(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/tema1/img10.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
+          img(src='@/assets/curso/tema1/img10.png', style="width: 500px" ,alt='').m-auto
     .row.mb-4(data-aos="fade-right")
       .col-auto.bg-c4
         .py-3.pe-3
@@ -257,7 +257,7 @@
           .row.align-items-center
             .col-lg-4.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/tema1/img8.svg', style="width: 220px" ,alt='Texto que describa la imagen').m-auto
+                img(src='@/assets/curso/tema1/img8.svg', style="width: 220px" ,alt='').m-auto
             .col-lg-8
               p Para conocer más a fondo sobre el tema, se puede consultar el siguiente documento para el desarrollo de capacidades dispuesto por el Ministerio de Salud, denominado:
               p.mb-4 #[b Lineamiento de Participación Social en Salud Mental]
