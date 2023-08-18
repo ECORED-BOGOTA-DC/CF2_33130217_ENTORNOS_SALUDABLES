@@ -100,7 +100,7 @@
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-10
         figure
-          img(src='@/assets/curso/tema7/img1.svg', style="width: 1000px" ,alt='').m-auto
+          img(src='@/assets/curso/tema7/img1.svg', style="width: 1000px" ,alt='Muestra un puzle entre Gobierno, sociedad civil, sector privado y academia, también el Gobierno de proximidad que tiene protección y participación, participación comunitaria y de actores locales, coordinación entre actores y voluntad política.').m-auto
           figcaption.mt-3 Nota. CEPAL (2019).
     Separador
     #t_7_3

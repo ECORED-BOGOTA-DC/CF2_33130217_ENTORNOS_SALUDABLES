@@ -67,7 +67,7 @@
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-10
         figure
-          img(src='@/assets/curso/tema1/img6.svg', style="width: 1000px" ,alt='').m-auto
+          img(src='@/assets/curso/tema1/img6.svg', style="width: 1000px" ,alt='Muestra, mecanismos de participación social, participación ciudadana y participación comunitaria.').m-auto
           figcaption.mt-3 Nota. Ministerio de Salud (2016).
     p.mb-5(data-aos="fade-left") Así mismo, dentro de los escenarios de participación ciudadana y participación comunitaria se ha reglamentado diversos escenarios de participación, como son:
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-down")
@@ -158,7 +158,7 @@
     .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-lg-10
         figure
-          img(src='@/assets/curso/tema1/img7.svg', style="width: 900px" ,alt='').m-auto
+          img(src='@/assets/curso/tema1/img7.svg', style="width: 900px" ,alt='Muestra que los objetivos se enmarcan en la Promoción de La Salud para el desarrollo de habilidades y capacidades a través de la educación a las comunidades que permiten: Generar factores protectores para la salud mental. La eliminación de las barreras de acceso y la  descentralización del poder. La garantía del derecho a la salud.').m-auto
           figcaption.mt-3 Nota. Organización Mundial de la Salud, (2012).
     .row.mb-4(data-aos="fade-right")
       .col-auto.bg-c4

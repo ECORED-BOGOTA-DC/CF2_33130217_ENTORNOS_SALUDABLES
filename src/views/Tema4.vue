@@ -224,7 +224,7 @@
       .row.align-items-center
         .col-12
           figure
-            img(src='@/assets/curso/tema4/img4.svg', style="width: 480px" ,alt='').m-auto
+            img(src='@/assets/curso/tema4/img4.svg', style="width: 480px" ,alt='Comprender que todos necesitan ayudan.').m-auto
 
 </template>
 
