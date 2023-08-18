@@ -2,19 +2,19 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 8
       h1 Protocolo de manejo en intento de suicidio en salud pública
-    .row.bg-c1
+    .row.bg-c1(data-aos="fade-right")
       .col-12
         .p-5
           p.mb-5 El suicidio representa el 1,4 % de las muertes a nivel mundial, casi un millón de personas mueren a causa de este padecimiento. Referente a esta situación, en el siguiente video se explicará el impacto y los objetivos planteados en Colombia para abordar esta problemática:
           figure
             .video
               iframe(width="560" height="315" src="https://www.youtube.com/embed/_MvRZr9v1UM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    p.mb-5 La siguiente figura, muestra la ruta de atención a seguir, cuando se presentan conductas suicidas:
-    .row.justify-content-center
+    p.mb-5(data-aos="fade-right") La siguiente figura, muestra la ruta de atención a seguir, cuando se presentan conductas suicidas:
+    .row.justify-content-center(data-aos="fade-down")
       .col-md-8.col-lg.bg-c11.m-2
         .p-4
           figure.mb-4
@@ -117,8 +117,8 @@
     #t_8_1
     .titulo-segundo.color-acento-contenido
       h2 8.1 Factores de riesgo
-    p.mb-5 Hecho o circunstancia que incrementa las probabilidades de que un individuo sufra determinado problema, contraiga una enfermedad o presente inminencia de un daño. Algunas circunstancias individuales o colectivas se convierten en factores de riesgo más relevantes frente a la ideación suicida, como:
-    .row.justify-content-center.align-items-center.bg-c12
+    p.mb-5(data-aos="fade-right") Hecho o circunstancia que incrementa las probabilidades de que un individuo sufra determinado problema, contraiga una enfermedad o presente inminencia de un daño. Algunas circunstancias individuales o colectivas se convierten en factores de riesgo más relevantes frente a la ideación suicida, como:
+    .row.justify-content-center.align-items-center.bg-c12(data-aos="fade-left")
       .col-lg-6.bg-white.mb-4.mb-lg-0
         ul.lista-ul.mb-0
           li.d-flex
@@ -172,8 +172,8 @@
     #t_8_2
     .titulo-segundo.color-acento-contenido
       h2 8.2. Factores precipitantes
-    p.mb-5 Son aquellos elementos que no son causal directa de enfermedades o condiciones, pero en conjunto con características individuales, influyen en el desarrollo de situaciones o enfermedades, ante casos de conductas suicidas.
-    .row.align-items-center
+    p.mb-5(data-aos="fade-right") Son aquellos elementos que no son causal directa de enfermedades o condiciones, pero en conjunto con características individuales, influyen en el desarrollo de situaciones o enfermedades, ante casos de conductas suicidas.
+    .row.align-items-center(data-aos="fade-down")
       .col-lg-4.mb-4.mb-lg-0
         figure
           img(src='@/assets/curso/tema8/img3.svg', style="width: 400px" ,alt='Texto que describa la imagen').m-auto
@@ -224,9 +224,9 @@
     #t_8_3
     .titulo-segundo.color-acento-contenido
       h2 8.3. Fortalecimiento familiar y comunitario
-    p Tiene como principal objetivo fomentar las habilidades alrededor del cuidado y el buen trato en las familias y las comunidades buscando un desarrollo pleno e integral en las etapas formativas (primera infancia y adolescencia) previniendo así entornos de riesgo.
-    p.mb-5 Algunos de los puntos clave en esta tarea son:
-    TabsA.color-acento-contenido
+    p(data-aos="fade-right") Tiene como principal objetivo fomentar las habilidades alrededor del cuidado y el buen trato en las familias y las comunidades buscando un desarrollo pleno e integral en las etapas formativas (primera infancia y adolescencia) previniendo así entornos de riesgo.
+    p.mb-5(data-aos="fade-right") Algunos de los puntos clave en esta tarea son:
+    TabsA.color-acento-contenido(data-aos="fade-left")
       .tarjeta.color-acento-botones.p-4(titulo="El respeto")
         .row
           .col-lg-8.mb-4.mb-lg-0
@@ -241,7 +241,7 @@
           .col-lg-4
             figure
               img(src='@/assets/curso/tema8/img5.png', style="width: 350px" ,alt='Texto que describa la imagen').m-auto
-      .tarjeta.color-acento-botones.p-4(titulo="Las condiciones socioeconómicas y culturales")
+      .tarjeta.color-acento-botones.p-4(titulo="Las condiciones socioeconómicas<br>y culturales")
         .row
           .col-lg-8.mb-4.mb-lg-0
             p.mb-0 El desarrollo de habilidades para la vida necesita de buenas condiciones socioeconómicas y culturales. Un estado de bienestar que garantice una vivienda digna, educación, espacios que fomenten el esparcimiento, la creatividad y el buen trato son factores directamente relacionados con la resiliencia y empoderamiento de entornos familiares y comunitarios.

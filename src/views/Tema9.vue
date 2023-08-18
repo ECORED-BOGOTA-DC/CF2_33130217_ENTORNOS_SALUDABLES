@@ -2,17 +2,17 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 9
       h1 Prevención de consumo de SPA
-    .row.mb-5
+    .row.mb-5(data-aos="fade-right")
       .col-auto
         figure
           img(src='@/assets/curso/tema9/img1.png', style="width: 70px" ,alt='Texto que describa la imagen').m-auto
       .col
-        p.mb-0 Toda forma de violencia debe ser denunciada para activar las rutas para el restablecimiento de derechos de las víctimas ya que en muchas ocasiones las personas por miedo o desconocimiento de los procesos a seguir, prefieren proteger a los victimarios con su silencio. A continuación, se detallan los aspectos claves para la activación de las rutas:
-    .row.justify-content-center.mb-5
+        p.mb-0 El consumo de sustancias ilegales se ha visto disparado en los últimos años, esto debido al aumento de la distribución y diversidad de drogas que aparecen en el mercado. El incremento del evento en las mujeres adolescentes, así como mayor acceso a la marihuana son unas de las razones que explican este creciente fenómeno.
+    .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-lg-10
         .bloque-texto-a.color-secundario.p-4.p-md-5
           .row.m-0.align-items-center.justify-content-between
@@ -21,8 +21,8 @@
             .col-lg-8
               .bloque-texto-a__texto.p-4
                 p.mb-0 Identificar las situaciones de riesgo y grupos vulnerables, así como disminuir la incidencia de contacto temprano con las sustancias psicoactivas, y las repercusiones en el bienestar, desarrollo y progresión hacia patrones de consumo de abuso y dependencia.
-    p.mb-5 Son pilares fundamentales en la consecución de esta tarea:
-    .row.justify-content-center
+    p.mb-5(data-aos="fade-right") Son pilares fundamentales en la consecución de esta tarea:
+    .row.justify-content-center(data-aos="fade-down")
       .col-md-8.col-lg.bg-c13.m-2
         .p-3.h-100
           .row
@@ -43,14 +43,14 @@
     .titulo-segundo.color-acento-contenido
       h2 9.1 Diferencia entre abuso, consumo y dependencia
     .row.align-items-center.mb-5
-      .col-lg-5.mb-4.mb-lg-0
+      .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema9/img2.png', style="width: 550px" ,alt='Texto que describa la imagen').m-auto
-      .col-lg-7
+      .col-lg-7(data-aos="fade-left")
         p.mb-0 La línea entre los diferentes niveles de tolerancia y manejo de una sustancia psicoactiva es débil y fácilmente una persona puede pasar del uso, al abuso y dependencia a las SPA. Los factores de riesgo que cada persona identifique, tienen un gran peso en el desencadenante más complejo del consumo, que es la dependencia y es un trastorno mental, que debe ser tratado como una enfermedad y no como un problema individual o social.
-    .titulo-sexto.color-acento-contenido.mb-4
-      p.mb-0 #[b Figura 5]. Diferencias conceptuales frente al uso, abuso y dependencia de SPA
-    .row.justify-content-center
+    .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
+      p.mb-0 #[b Figura 4]. Diferencias conceptuales frente al uso, abuso y dependencia de SPA
+    .row.justify-content-center(data-aos="fade-down")
       .col-11.col-md-8.col-lg.bg-c14.m-2
         .p-4
           figure.mb-4
@@ -63,13 +63,13 @@
           figure.mb-4
             img(src='@/assets/curso/tema9/img5.svg', style="width: 70px" ,alt='Texto que describa la imagen')
           p #[b Clasificación]
-          p.mb-0 #[b Física]: implica un cambio permanente en el funcionamiento biológico del cuerpo y cerebro, generando tolerancia y por  ende requerimiento de dosis mas altas cada vez Psicológica.
+          p.mb-0 #[b Física]: implica un cambio permanente en el funcionamiento biológico del cuerpo y cerebro, generando tolerancia y por  ende requerimiento de dosis más altas cada vez Psicológica.
       .col-11.col-md-8.col-lg.bg-c14.m-2
         .p-4
           figure.mb-4
             img(src='@/assets/curso/tema9/img6.svg', style="width: 70px" ,alt='Texto que describa la imagen')
           p #[b Abuso]
-          p.mb-0 Se refiere al uso de sustancias de manera compulsiva, lo que conduce a problemas graves como ausencias escolares , laborales, consumo de drogas en situaciones indebidas, problemas legales, conflictos interpersonales debido a el consumo.
+          p.mb-0 Se refiere al uso de sustancias de manera compulsiva, lo que conduce a problemas graves como ausencias escolares, laborales, consumo de drogas en situaciones indebidas, problemas legales, conflictos interpersonales debido a el consumo.
       .col-11.col-md-8.col-lg.bg-c14.m-2
         .p-4
           figure.mb-4
@@ -85,8 +85,8 @@
     #t_9_2
     .titulo-segundo.color-acento-contenido
       h2 9.2. Clasificación de sustancias psicoactivas
-    p.mb-5 Las SPA se han clasificado de acuerdo al tipo de estimulación que generan al sistema nervioso central, ya sea estimulando, deprimiendo o perturbando los niveles de conciencia y percepción de la realidad; explicado y ejemplificado esto de la siguiente manera:
-    .row.justify-content-center
+    p.mb-5(data-aos="fade-right") Las SPA se han clasificado de acuerdo al tipo de estimulación que generan al sistema nervioso central, ya sea estimulando, deprimiendo o perturbando los niveles de conciencia y percepción de la realidad; explicado y ejemplificado esto de la siguiente manera:
+    .row.justify-content-center(data-aos="fade-left")
       .col-9.col-md-6.col-lg-4.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
@@ -98,7 +98,7 @@
               p.text-center #[b ESTIMULANTES]
               p.text-center Sustancias que aceleran y alteran la química y el funcionamiento cerebral, provocando estados de activación, mejoría, excitación e hiperactividad.
               p.text-center Ejemplos
-              p.text-center 
+              p.text-center Anfetaminas (Tusi), cocaína, éxtasis, basuco, crack, marihuana en dosis muy altas.
       .col-9.col-md-6.col-lg-4.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
@@ -125,10 +125,10 @@
     #t_9_3
     .titulo-segundo.color-acento-contenido
       h2 9.3. Factores de riesgo y factores protectores
-    p.mb-5 Identificar factores de riesgo frente al consumo de sustancias psicoactivas es la puerta de entrada para el desarrollo de acciones para la promoción y prevención a nivel individual y colectivo. A continuación, se detallan los factores de riesgos identificados (ver tabla 5):
-    .titulo-sexto.color-acento-contenido.mb-4
+    p.mb-5(data-aos="fade-right") Identificar factores de riesgo frente al consumo de sustancias psicoactivas es la puerta de entrada para el desarrollo de acciones para la promoción y prevención a nivel individual y colectivo. A continuación, se detallan los factores de riesgos identificados (ver tabla 5):
+    .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
       p.mb-0 #[b Tabla 5]. Factores de riesgo y de protección frente al consumo de SPA
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-left")
       .col-lg-10
         .tabla-a.color-secundario
           table
@@ -258,8 +258,8 @@
     #t_9_4
     .titulo-segundo.color-acento-contenido
       h2 9.4. Estrategias
-    p.mb-5 Al identificar los factores de riesgo y los factores protectores, es posible pensar en las estrategias para la prevención y mitigación de los riesgos y la prevención de los mismos, así:
-    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+    p.mb-5(data-aos="fade-right") Al identificar los factores de riesgo y los factores protectores, es posible pensar en las estrategias para la prevención y mitigación de los riesgos y la prevención de los mismos, así:
+    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-down")
       .tarjeta.color-acento-contenido
         .row.justify-content-center.mb-3
           .col-12
@@ -309,8 +309,8 @@
     #t_9_5
     .titulo-segundo.color-acento-contenido
       h2 9.5. Acciones
-    p.mb-5 Las acciones están relacionadas con la puesta en marcha de las estrategias, las cuáles pueden ser del nivel individual, familiar, educativo y social comunitario. Estas acciones se formulan a través de la implementación del Plan Nacional de Salud Pública en cada uno de los territorios, incluyendo:
-    .tarjeta.tarjeta--verde
+    p.mb-5(data-aos="fade-right") Las acciones están relacionadas con la puesta en marcha de las estrategias, las cuáles pueden ser del nivel individual, familiar, educativo y social comunitario. Estas acciones se formulan a través de la implementación del Plan Nacional de Salud Pública en cada uno de los territorios, incluyendo:
+    .tarjeta.tarjeta--verde(data-aos="fade-left")
       .p-4.p-lg-5
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center

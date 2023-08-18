@@ -2,15 +2,15 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 4
       h1 Primeros Auxilios Psicológicos
     .row.align-items-center.mb-5
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema4/img1.png', style="width: 280px" ,alt='Texto que describa la imagen').m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         p La Red Nacional para el Estrés Traumático Infantil y el Centro Nacional de Trastorno de Estrés Postraumático (2006), plantean que los Primeros Auxilios Psicológicos (PAP) están diseñados para reducir a corto y largo plazo la angustia inicial producida por eventos traumáticos y para promover el funcionamiento adaptativo y las habilidades de afrontamiento. Los principios y las técnicas de los PAP son cumplir con cuatro requisitos básicos:
         ul.lista-ul.mb-0
           li.d-flex
@@ -29,7 +29,7 @@
             i.fas.fa-check(style="color: #FF8182")
             |
             p.mb-0 Permiten adaptaciones frente a las particularidades culturales.
-    .row
+    .row(data-aos="fade-down")
       .col-12.bg-c3
         .px-4.pt-4.pb-4.pb-lg-0
           .row.align-items-center
@@ -37,7 +37,7 @@
               figure
                 img(src='@/assets/curso/tema4/img1.svg', style="width: 220px" ,alt='Texto que describa la imagen').m-auto
             .col-lg-8
-              p En el siguiente documento la Organización Panaméricana de la Salud, dispuso información relacionada con la presente temática; en respuesta a emergencias y desastres, apoyando a las personas tras un incidente crítico.
+              p En el siguiente documento la Organización Panamericana de la Salud, dispuso información relacionada con la presente temática; en respuesta a emergencias y desastres, apoyando a las personas tras un incidente crítico.
               p.mb-4 #[b Primera Ayuda Psicológica (PAP)]
               a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexo1.pdf')" target="_blank")
                 span(style="color: #12263F !important") Enlace
@@ -46,23 +46,23 @@
     #t_4_1
     .titulo-segundo.color-acento-contenido
       h2 4.1. Descripción
-    p Los Primeros Auxilios Psicológicos, al igual que los primeros auxilios en una emergencia médica, se aplican a personas que han sufrido o están pasando por una crisis emocional o psicológica y son tan importantes en su aplicación para lograr la regulación en el momento, pero también para prevenir condiciones psicológicas posteriores, derivadas del trauma que la experiencia pueda generar.
+    p(data-aos="fade-right") Los Primeros Auxilios Psicológicos, al igual que los primeros auxilios en una emergencia médica, se aplican a personas que han sufrido o están pasando por una crisis emocional o psicológica y son tan importantes en su aplicación para lograr la regulación en el momento, pero también para prevenir condiciones psicológicas posteriores, derivadas del trauma que la experiencia pueda generar.
     .row.align-items-center.mb-5
-      .col-lg-7.mb-4.mb-lg-0
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         p La crisis es una condición psicológica que se deriva del desborde emocional que una persona puede presentar ante una situación particular.
         p.mb-0 Es importante tener presente que no todas las personas manejan sus recursos emocionales y psicológicos de la misma forma; por tanto, los desencadenantes son diversos como la misma diversidad humana. Aquí lo importante es entender que a pesar de la desregulación, todas las personas cuentan con insumos propios, experiencia y aprendizaje, que pueden ayudar a superar la crisis. Cuando esto no sucede de forma natural, la aplicación de los PAP son necesarios y constituyen un factor protector frente a la aparición de traumas posteriores, que pueden incluso hacerse visibles a mediano y largo plazo. Los PAP representan una ayuda in situ altamente efectiva.
-      .col-lg-5
+      .col-lg-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema4/img2.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
     .row.align-items-center
-      .col-lg-7.bg-c5.mb-4.mb-lg-0
+      .col-lg-7.bg-c5.mb-4.mb-lg-0(data-aos="fade-right")
         .row.align-items-center
           .col-lg-8.p-4.p-lg-0
             p.mb-0.ms-0.ms-lg-4 Cabe resaltar que los PAP pueden ser aplicados por cualquier persona con formación para ello, sin requerir de una experticia profesional. Su uso está recomendado para situaciones de:
           .col-lg-4
             figure
               img(src='@/assets/curso/tema4/img2.svg', style="width: 170px" ,alt='Texto que describa la imagen').m-auto
-      .col-lg-5
+      .col-lg-5(data-aos="fade-left")
         ul.lista-ul.mb-0
           li.d-flex
             i.fas.fa-check(style="color: #FF8182")
@@ -92,8 +92,8 @@
     #t_4_2
     .titulo-segundo.color-acento-contenido
       h2 4.2. Etapas
-    p.mb-5 El proceso inicia con la activación de una ruta en casos de crisis, que siempre conecta con tres momentos:
-    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+    p.mb-5(data-aos="fade-right") El proceso inicia con la activación de una ruta en casos de crisis, que siempre conecta con tres momentos:
+    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-down")
       .row(titulo="Observar")
         .col-12
           .p-4

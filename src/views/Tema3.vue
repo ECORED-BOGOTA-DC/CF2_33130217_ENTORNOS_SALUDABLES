@@ -2,18 +2,18 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 3
-      h1 Grupos de apoyo y de ayuda mutua o autoayuda
+      h1 Grupos de apoyo y de ayuda mutua y/o autoayuda
     .row.align-items-center.mb-5
-      .col-lg-5.mb-4.mb-lg-0
+      .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img1.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
-      .col-lg-7
+      .col-lg-7(data-aos="fade-left")
         p Los grupos de apoyo y de ayuda mutua han sido, en el ámbito de la salud mental, espacios significativos para quienes los conforman, lugares de encuentro, que por un lado propenden por los procesos de psicoeducación y por otro lado, estos grupos permiten la generación de conversaciones que se convierten en alternativas terapéuticas sin apoyo profesional, pero que representan grandes beneficios.
         p.mb-0 A continuación, se exponen los conceptos de Grupos de apoyo y Grupos de ayuda mutua, con el propósito de que se conozca su finalidad y diferencias:
-    TabsB.color-acento-contenido.mb-5
+    TabsB.color-acento-contenido.mb-5(data-aos="fade-down")
       .py-4.py-md-5(titulo="Grupos de apoyo" :icono="require('@/assets/curso/tema3/img1.svg')")
         .row.justify-content-center
           .col-lg-7.mb-4.mb-lg-0
@@ -28,7 +28,7 @@
           .col-lg-4
             figure
               img(src='@/assets/curso/tema3/img3.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-10
         .bloque-texto-a.color-secundario.p-4.p-md-5
           .row.m-0.align-items-center.justify-content-between
@@ -38,10 +38,10 @@
               .bloque-texto-a__texto.p-4
                 p.mb-0 Ayudar a que las personas con problemas o trastornos en salud mental puedan romper con el estigma de la enfermedad mental, fomentando un estado positivo de su salud, permitir que las personas tengan conversaciones difíciles acerca de sus miedos, emociones y sentimientos y de esta forma logren encontrar caminos para gestionarlos. De igual forma, los grupos de apoyo brindan la posibilidad de tener el apoyo de un profesional dispuesto a brindar psicoeducación, orientación y seguimiento de casos.
     .row.align-items-center
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img4.png', style="width: 280px" ,alt='Texto que describa la imagen').m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         p Los grupos de apoyo hacen parte de las actividades de promoción y prevención dispuestas a través del Plan Obligatorio de Salud - POS y del Plan de Intervenciones Colectivas PIC, los pacientes tienen la libertad de elegir de hacer parte de los grupos de ayuda y las intervenciones se basan en procesos psicoeducativos dirigidos a las personas diagnosticadas, las familias y cuidadores.
         p.mb-0 Los grupos de ayuda mutua y/o autoayuda, son liderados por personas de los grupos y pueden solicitar apoyo de profesionales de la salud para resolver situaciones particulares, su estructura y funcionamiento es menos formal que los grupos de ayuda, en términos de los tiempos de las reuniones, temas a tratar y la forma de abordarlos, que por lo general se realiza a través de la narrativa oral de los participantes, quienes hablan de sus intereses, necesidades, dolores, miedos y manejo de la enfermedad en general.
       

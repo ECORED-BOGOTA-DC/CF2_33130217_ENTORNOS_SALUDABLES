@@ -2,18 +2,18 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 5
       h1 Rutas Integrales de Atención en Salud - RIAS
-    .row.align-items-center.mb-3
+    .row.align-items-center.mb-3(data-aos="fade-down")
       .col-auto
         figure
           img(src='@/assets/curso/tema5/img1.png', style="width: 70px" ,alt='Texto que describa la imagen').m-auto
       .col
         p.mb-0 El objetivo de las RIAS es regular las condiciones necesarias para asegurar la integralidad en la atención en Salud para las personas, familias y comunidades por parte de los diferentes integrantes del SGSSS y demás entidades que tengan a su cargo acciones en salud a efectos de contribuir al mejoramiento de los resultados en salud y reducir la carga de la enfermedad. (Ministerio de Salud, 2016).
-    p.mb-5 Las rutas que se han establecido son de tres tipos:
-    .row.justify-content-center.mb-5
+    p.mb-5(data-aos="fade-right") Las rutas que se han establecido son de tres tipos:
+    .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-primario.p-5.h-100
           .tarjeta-numerada__numero
@@ -38,8 +38,8 @@
             img(src='@/assets/curso/tema5/img4.png', style="width: 60px" ,alt='Texto que describa la imagen')
           p #[b Rutas específicas de atención]
           p.mb-0 Estas rutas se enfocan en el abordaje integral de condiciones específicas de salud.
-    p.mb-5 El Ministerio de Salud adoptó diversas Rutas Integrales de Atención, entre las que se encuentra la ruta para la población con riesgo o presencia de trastornos mentales y del comportamiento manifiesto debido a uso de sustancias psicoactivas y adicciones.
-    .row.mb-5
+    p.mb-5(data-aos="fade-right") El Ministerio de Salud adoptó diversas Rutas Integrales de Atención, entre las que se encuentra la ruta para la población con riesgo o presencia de trastornos mentales y del comportamiento manifiesto debido a uso de sustancias psicoactivas y adicciones.
+    .row.mb-5(data-aos="fade-down")
       .col-12.bg-c3
         .px-4.pt-4.pb-4.pb-lg-0
           .row.align-items-center
@@ -53,17 +53,17 @@
                 span(style="color: #12263F !important") Enlace
                 i.fas.fa-file-download(style="color: #12263F !important")
     .row.align-items-center.mb-5
-      .col-lg-7.mb-4.mb-lg-0
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         p Pensar las RIAS desde la conformación de los grupos de riesgo, permite orientar decisiones a nivel local para dar pertinencia y coherencia a las intervenciones en salud pública. Para cada grupo de riesgo que se ha conformado se definen procesos de atención integral en donde se delimitan las acciones de los diversos sectores que hacen parte de la gestión en la Salud Pública y se focalizan intervenciones a nivel individual y colectivo, con la premisa de que estos grupos de riesgo comparten características.
         p.mb-0 Los dieciséis (16) grupos de riesgo priorizados por el Ministerio de Salud para la elaboración de Rutas Integrales de Atención en Salud son los siguientes (ver tabla 2):
-      .col-lg-5
+      .col-lg-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema5/img5.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
-    .titulo-sexto.color-acento-contenido.mb-4
-      p.mb-0 #[b Tabla 1]. Grupos de riesgo
+    .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
+      p.mb-0 #[b Tabla 2]. Grupos de riesgo
     .row.justify-content-center.mb-5
       .col-lg-10
-        .tabla-a.color-secundario
+        .tabla-a.color-secundario(data-aos="fade-down")
           table
             caption Nota. SENA (2022).
             thead
@@ -119,8 +119,8 @@
               tr
                 th 16
                 td RIAS para población con riesgo o trastornos degenerativos, neuropatías y auto-inmunes.
-    p.mb-5 En el marco de esta clasificación de rutas por grupos de riesgo, se encuentran dos que hacen referencia a salud mental, RIAS para población con riesgo o trastornos mentales y del comportamiento manifiestos debido a uso de sustancias psicoactivas y adicciones y RIAS para población con riesgo o trastornos psicosociales y del comportamiento.
-    .row.align-items-center.mb-4
+    p.mb-5(data-aos="fade-right") En el marco de esta clasificación de rutas por grupos de riesgo, se encuentran dos que hacen referencia a salud mental, RIAS para población con riesgo o trastornos mentales y del comportamiento manifiestos debido a uso de sustancias psicoactivas y adicciones y RIAS para población con riesgo o trastornos psicosociales y del comportamiento.
+    .row.align-items-center.mb-4(data-aos="fade-right")
       .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
         figure
           img(src='@/assets/curso/tema1/img1.svg', style="width: 66px" ,alt='Texto que describa la imagen')
@@ -128,14 +128,14 @@
         .py-3.px-3
           h3.mb-0.ms-0.ms-lg-2 Problemas y trastornos mentales
     .row.align-items-center.mb-5
-      .col-lg-8.mb-4.mb-lg-0
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         p Los problemas mentales inciden en la forma como una persona organiza la información, en cómo piensa, siente y actúa en relación con el mismo, los otros y su entorno, de igual forma el trastorno mental suele ser más común pero de menor prevalencia en el tiempo, el deterioro que producen no es tan significativo para la vida social y personal.
         p Por otro lado, los trastornos mentales producen una alteración leve, moderada o severa en el pensamiento, la percepción de la realidad, las emociones y las relaciones de las personas, su prevalencia en el tiempo es más alta y pueden afectar de forma significativa la funcionalidad de una persona en todas las esferas de su vida. Pueden coexistir varios trastornos de forma simultánea en un mismo paciente.
         p.mb-0 Las RIAS en salud mental están centradas para su orientación operativa en:
-      .col-lg-4
+      .col-lg-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema5/img6.png', style="width: 300px" ,alt='Texto que describa la imagen').m-auto
-    .row.align-items-end.justify-content-center.mb-5
+    .row.align-items-end.justify-content-center.mb-5(data-aos="fade-right")
       .col-auto.m-2
         figure.fig-p1
           img(src='@/assets/curso/tema5/img3.svg', style="width: 90px" ,alt='Texto que describa la imagen').m-auto
@@ -162,17 +162,17 @@
           .col-12.bg-c9
             .px-4.py-3
               p.mb-0 #[b Por momentos del curso de vida de las personas en los diferentes entornos de desarrollo y transformación.]
-    p.mb-5 Las RIAS, definen atenciones para población de tipo:
-    .row.justify-content-center.mb-5
+    p.mb-5(data-aos="fade-right") Las RIAS, definen atenciones para población de tipo:
+    .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-auto.mb-4.mb-lg-0
         figure
           img(src='@/assets/curso/tema5/img10.png', style="width: 320px" ,alt='Individuales').m-auto
       .col-auto
         figure
           img(src='@/assets/curso/tema5/img11.png', style="width: 320px" ,alt='Colectivas').m-auto
-    p Las RIAS en salud mental deben ser aplicadas de forma obligatoria por todas las entidades territoriales, las EPS, IPS y todas las entidades sectoriales que tengan un papel activo en las actividades de prevención, promoción, mantenimiento de la salud. diagnóstico, tratamiento, rehabilitación y paliación.
-    p.mb-5 Dentro de las actividades que contempla la ruta se encuentran:
-    .tarjeta.tarjeta--verde.mb-5
+    p(data-aos="fade-right") Las RIAS en salud mental deben ser aplicadas de forma obligatoria por todas las entidades territoriales, las EPS, IPS y todas las entidades sectoriales que tengan un papel activo en las actividades de prevención, promoción, mantenimiento de la salud. diagnóstico, tratamiento, rehabilitación y paliación.
+    p.mb-5(data-aos="fade-right") Dentro de las actividades que contempla la ruta se encuentran:
+    .tarjeta.tarjeta--verde.mb-5(data-aos="fade-down")
       .p-4.p-lg-5
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center
@@ -226,7 +226,7 @@
                 img(src='@/assets/curso/tema5/img18.png', style="width: 500px" ,alt='Texto que describa la imagen').m-auto
     .row.justify-content-center
       .col-lg-10
-        .bloque-texto-a.color-secundario.p-4.p-md-5
+        .bloque-texto-a.color-secundario.p-4.p-md-5(data-aos="fade-left")
           .row.m-0.align-items-center.justify-content-between
             .col-lg-4.mb-4.mb-lg-0
               p.mb-0 #[b Para el consumo de sustancias psicoactivas:]

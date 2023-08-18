@@ -2,38 +2,32 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 6
       h1 Activación de rutas en caso de violencia
-    .row.mb-5
+    .row(data-aos="fade-right")
       .col-auto
         figure
           img(src='@/assets/curso/tema6/img1.png', style="width: 70px" ,alt='Texto que describa la imagen').m-auto
       .col
         p.mb-0 Toda forma de violencia debe ser denunciada para activar las rutas para el restablecimiento de derechos de las víctimas ya que en muchas ocasiones las personas por miedo o desconocimiento de los procesos a seguir, prefieren proteger a los victimarios con su silencio. A continuación, se detallan los aspectos claves para la activación de las rutas:
-    .row.align-items-center.mb-4
-      .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
-        figure
-          img(src='@/assets/curso/tema1/img1.svg', style="width: 66px" ,alt='Texto que describa la imagen')
-      .col-auto.bg-c2(style="z-index:1")
-        .py-3.px-3
-          h3.mb-0.ms-0.ms-lg-2 Procedimiento para denunciar
-    .row.mb-5
-      .col-lg-7.mb-4.mb-lg-0
+    Separador
+    #t_6_1
+    .titulo-segundo.color-acento-contenido
+      h2 6.1. Procedimiento para denunciar
+    .row
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         p.mb-0 La denuncia es la forma de encender la alarma para que las diferentes instituciones del estado inicien su trabajo, para lograr restablecer los derechos de la víctima de cualquier forma de violencia. En Colombia la Ley 906 de 2014, establece los requisitos para la denuncia, la cual puede hacerse de forma escrita, verbal o por medios electrónicos, esta debe permitir la identificación del victimario, el día la hora y una descripción de los hechos ocurridos. La importancia de la denuncia radica en la posibilidad de tener acceso a la justicia, en este caso justicia penal, a través de la Fiscalía General de la Nación, entidad encargada de realizar las investigaciones, aclarar los hechos y establecer condena en caso de que se demuestre la culpabilidad del supuesto agresor.
-      .col-lg-5
+      .col-lg-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema6/img2.png', style="width: 520px" ,alt='Texto que describa la imagen').m-auto
-    .row.align-items-center.mb-4
-      .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
-        figure
-          img(src='@/assets/curso/tema1/img1.svg', style="width: 66px" ,alt='Texto que describa la imagen')
-      .col-auto.bg-c2(style="z-index:1")
-        .py-3.px-3
-          h3.mb-0.ms-0.ms-lg-2 Rutas de atención
-    .row.align-items-center.mb-5
-      .col-lg-7.mb-4.mb-lg-0
+    Separador
+    #t_6_2
+    .titulo-segundo.color-acento-contenido
+      h2 6.2. Rutas de atención
+    .row.align-items-center
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         p El Estado ha puesto a disposición de los ciudadanos diferentes instituciones receptoras de las denuncias a nivel nacional, con el fin de facilitar el acceso a la justicia. Las rutas corresponden a la acción mancomunada de las diferentes entidades para dar respuesta al hecho denunciado, proteger a las víctimas, ayudarlas en su recuperación y restablecer sus derechos.
         p Instituciones que hacen parte de las rutas de atención:
         .row
@@ -85,20 +79,17 @@
                 i.fas.fa-check(style="color: #FF8182")
                 |
                 p.mb-0 Casas de Justicia.
-      .col-lg-5
+      .col-lg-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema6/img3.png', style="width: 460px" ,alt='Texto que describa la imagen').m-auto
-    .row.align-items-center.mb-4
-      .col-auto.d-none.d-lg-block.pe-0(style="z-index:2")
-        figure
-          img(src='@/assets/curso/tema1/img1.svg', style="width: 66px" ,alt='Texto que describa la imagen')
-      .col-auto.bg-c2(style="z-index:1")
-        .py-3.px-3
-          h3.mb-0.ms-0.ms-lg-2 Competencias de cada entidad: Comisarias de Familia, Policía Nacional, Fiscalía, ICBF, Salud, Medicina legal, Personerías
-    p.mb-5 Activar una ruta para el restablecimiento de derechos, accionar el botón indicado para cada caso, es decir saber dónde, cómo y con quién denunciar. A continuación, se especifican las instituciones dispuestas por el estado para la denuncia y las competencias de cada una de ellas (ver tabla 3).
-    .titulo-sexto.color-acento-contenido.mb-4
+    Separador
+    #t_6_3
+    .titulo-segundo.color-acento-contenido
+      h2 6.3. Competencias de cada entidad: Comisarias de Familia, Policía Nacional, Fiscalía, ICBF, Salud, Medicina legal, Personerías
+    p.mb-5(data-aos="fade-right") Activar una ruta para el restablecimiento de derechos, accionar el botón indicado para cada caso, es decir saber dónde, cómo y con quién denunciar. A continuación, se especifican las instituciones dispuestas por el estado para la denuncia y las competencias de cada una de ellas (ver tabla 3).
+    .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
       p.mb-0 #[b Tabla 3]. Competencias de cada entidad frente a la ruta de atención en caso de violencia
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-down")
       .col-lg-10
         .tabla-a.color-secundario
           table
@@ -139,13 +130,13 @@
                 td(style="vertical-align: initial") #[b Casas de Justicia]
                 td Las Casas de Justicia en Colombia se conciben como un modelo de atención (infraestructura y equipamiento) para el acceso a la justicia donde se ofrecen servicios de información, orientación, resolución de conflictos y se aplican y ejecutan los mecanismos de justicia formal y no formal existentes en el municipio, a través de entidades del orden nacional y local. Con ellas se pretende acercar la justicia al ciudadano orientando sobre sus derechos, previniendo el delito, luchando contra la impunidad, facilitando el uso de los servicios de justicia formal y promocionando la utilización de mecanismos alternativos de resolución de conflictos. Los servicios que se prestan en las casas de justicia son gratuitos.
     Separador
-    #t_6_1
+    #t_6_4
     .titulo-segundo.color-acento-contenido
-      h2 6.1. Líneas disponibles para la denuncia o acompañamiento
-    p.mb-5 La denuncia puede realizarse de forma presencial u online, a través de líneas de atención dispuestas para ello. Estas se encuentran disponibles en casos de emergencias las 24 horas (ver tabla 4).
-    .titulo-sexto.color-acento-contenido.mb-4
+      h2 6.4. Líneas disponibles para la denuncia o acompañamiento
+    p.mb-5(data-aos="fade-right") La denuncia puede realizarse de forma presencial u online, a través de líneas de atención dispuestas para ello. Estas se encuentran disponibles en casos de emergencias las 24 horas (ver tabla 4).
+    .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
       p.mb-0 #[b Tabla 4]. Líneas de atención para la denuncia de la violencia
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-lg-10
         .tabla-a.color-secundario
           table
@@ -165,7 +156,7 @@
                 td
                   p.mb-0 Consulte aquí la comisaría más cercana a su localidad:
                   p.mb-0
-                    a(href="https://www.minjusticia.gov.co/Busqueda/Paginas/default.aspx" target="_blank") https://www.minjusticia.gov.co/Busqueda/Paginas/default.aspx
+                    a.txt-c2(href="https://www.minjusticia.gov.co/Busqueda/Paginas/default.aspx" target="_blank") https://www.minjusticia.gov.co/Busqueda/Paginas/default.aspx
               tr
                 td(style="vertical-align: initial") #[b Fiscalía General de la Nación]
                 td
@@ -176,7 +167,7 @@
                 td
                   p.mb-0 Línea nacional de atención en Salud Mental: 192, opción 4.
                   p.mb-0 Líneas a territoriales de atención en salud mental: 
-                    a(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ET/directorio-salud-mental-prevencion-suicidio-minsalud.pdf" target="_blank") Directorio
+                    a.txt-c2(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ET/directorio-salud-mental-prevencion-suicidio-minsalud.pdf" target="_blank") Directorio
               tr
                 td(style="vertical-align: initial") #[b Instituto Colombiano de Bienestar Familiar - ICBF]
                 td
@@ -188,7 +179,7 @@
                   p.mb-0 Línea gratuita nacional: 018000914862
                   p.mb-0 Directora de oficinas regionales:
                   p.mb-0
-                    a(href="https://siclico.medicinalegal.gov.co/directorioML/" target="_blank") https://siclico.medicinalegal.gov.co/directorioML/
+                    a.txt-c2(href="https://siclico.medicinalegal.gov.co/directorioML/" target="_blank") https://siclico.medicinalegal.gov.co/directorioML/
               tr
                 td(style="vertical-align: initial")
                   p #[b Procuraduría General de la Nación]
@@ -199,7 +190,7 @@
                   p.mb-0 Línea gratuita nacional: #[b 018000 914814]
                   p.mb-0 Directorio de personerías:
                   p.mb-0
-                    a(href="https://www.rutarefugiadosymigrantes.com/contexto-municipal" target="_blank") https://www.rutarefugiadosymigrantes.com/contexto-municipal
+                    a.txt-c2(href="https://www.rutarefugiadosymigrantes.com/contexto-municipal" target="_blank") https://www.rutarefugiadosymigrantes.com/contexto-municipal
 
 </template>
 

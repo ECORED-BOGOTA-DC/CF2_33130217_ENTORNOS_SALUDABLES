@@ -2,12 +2,12 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 2
       h1 Estrategia Rehabilitación Basada en Comunidad
-    p.mb-5 La RBC o Rehabilitación Basada en la Comunidad, es una estrategia intersectorial que surge en el marco de los procesos de planeación territorial que hacen parte del lineamiento de participación social en salud y que se define en la Resolución 518 de 2015.
-    .row.mb-5
+    p.mb-5(data-aos="fade-right") La RBC o Rehabilitación Basada en la Comunidad, es una estrategia intersectorial que surge en el marco de los procesos de planeación territorial que hacen parte del lineamiento de participación social en salud y que se define en la Resolución 518 de 2015.
+    .row.mb-5(data-aos="fade-left")
       .col-12.bg-c3
         .px-4.pt-4.pb-4.pb-lg-0
           .row.align-items-center
@@ -20,7 +20,7 @@
               a.boton.color-acento-botones.texto-blanco(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/resolucion-0518-de-2015.pdf" target="_blank" type="application/pdf")
                 span(style="color: #12263F !important") Enlace
                 i.fas.fa-file-download(style="color: #12263F !important")
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10
         .bloque-texto-a.color-secundario.p-4.p-md-5
           .row.m-0.align-items-center.justify-content-between
@@ -29,8 +29,8 @@
             .col-lg-8
               .bloque-texto-a__texto.p-4
                 p.mb-0 Permite la expresión libre de intereses y necesidades, la identificación de factores de riesgo y generación de factores protectores para implementar acciones conjuntas que propendan por el mejoramiento de la salud y la calidad de vida. De igual forma, estos procesos organizativos sociales trabajan por la defensa y la garantía de los derechos en salud mental, la eliminación de barreras de acceso a los servicios y la confrontación y eliminación de paradigmas frente a los temas de salud social.
-    p.mb-5 En los territorios la estrategia se define a partir de los siguientes pasos o procedimientos:
-    .tarjeta.tarjeta--gris.p-4.mb-5
+    p.mb-5(data-aos="fade-right") En los territorios la estrategia se define a partir de los siguientes pasos o procedimientos:
+    .tarjeta.tarjeta--gris.p-4.mb-5(data-aos="fade-left")
       LineaTiempoC.color-acento-contenido(text-small)
         .row.align-items-center(titulo="1")
           .col-lg-4.mb-4.mb-lg-0
@@ -60,7 +60,7 @@
           .col-lg-8
             p.mb-0 #[b.fs-5 Organizar, conformar y/o fortalecer los grupos de apoyo y ayuda mutua:]
             p.mb-0 Estas organizaciones son fundamentales y las comunidades deben conocer la finalidad, funcionamiento y objetivos de estos grupos.
-    .row
+    .row(data-aos="fade-right")
       .col-12.bg-c3
         .px-4.pt-4.pb-4.pb-lg-0
           .row.align-items-center
