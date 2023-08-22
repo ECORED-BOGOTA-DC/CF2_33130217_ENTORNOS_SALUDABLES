@@ -39,7 +39,7 @@
             .col-lg-8
               p En el siguiente documento la Organización Panamericana de la Salud, dispuso información relacionada con la presente temática; en respuesta a emergencias y desastres, apoyando a las personas tras un incidente crítico.
               p.mb-4 #[b Primera Ayuda Psicológica (PAP)]
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexo1.pdf')" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(href="https://sena.territorio.la/content_secure/1256/institucion/Complementaria/institution/SENA/Salud/33130226/Contenido/OVA/CF2/downloads/anexo1.pdf" target="_blank")
                 span(style="color: #12263F !important") Enlace
                 i.fas.fa-file-download(style="color: #12263F !important")
     Separador
